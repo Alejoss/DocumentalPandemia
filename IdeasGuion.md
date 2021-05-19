@@ -1,26 +1,52 @@
 - Estamos encerrados, gravedad del encierro. (Empezar desde lo evidente).
 - Poniendo las cosas en perspectiva. (Estadísticas).
    - [Covid-19: cómo se construye el pánico con los números](https://tierrapura.org/2021/04/28/covid-19-como-se-construye-el-panico-con-los-numeros/)
+   - [Estadísticas total muertes por año España](imagen)
+   - [Muertes por tabajo, en el mundo y Argentina 2019(OMS)](https://www.caeme.org.ar/epidemia-de-tabaquismo-en-argentina-hay-9-millones-de-fumadores/#:~:text=El%20consumo%20de%20tabaco,fumadores%20expuestos%20al%20humo%20ajeno)(IMAGEN)
+   - [Muertes por alcohol en el mundo 2018 (OMS)](https://www.who.int/es/news/item/21-09-2018-harmful-use-of-alcohol-kills-more-than-3-million-people-each-year--most-of-them-men)(IMAGEN)
+   - [Muertes y enfermedades de tuberculosis 2019 (OMS)](https://www.who.int/es/news-room/fact-sheets/detail/tuberculosis)(IMAGEN)
+   - [Reduccion de casos y muertes por tuberculosis 2020 (OMS)](https://www.who.int/es/news/item/14-10-2020-who-global-tb-progress-at-risk)(IMAGEN)
+   - [Estadisticas de poblacion mundial, muertes mostrado en casos, abortom sida accidentes](https://www.worldometers.info/es/)
+   - [Estadisticas de nuevos casos, muertes por COVID por segundo](https://www.worldometers.info/coronavirus/)
 - Unicef predice hambre. 
-- Además, los datos son extraños, no se comportano normalmente. 
+- Además, los datos son extraños, no se comportano normalmente.
+   - [Menos muertes en España, pcr no sirve, mascaras causan infeccion segun la OMS.](https://odysee.com/@elconejodealicia:a/3759896638745513518:8) 
 - La gripe común ha desaparecido. 
 - Las consecuencias del encierro, estadísticamente. 
+  -[Nos esta enfermando el distanciamiento social, la salud fisica, mental. Los seres humanos intercambiamos organismos cuando estamos cerca y eso es bueno](https://fb.watch/56rt62ZNjC/)
 - Desempleo, suicidios, hambre.
 - Las políticas públicas se basan en el PCR. 
 - Modelos de predicción exagerados. 
-- El creador del PCR advirtió que no funcionaba para eso.
+- El creador del PCR advirtió que no funcionaba para eso. 
+  - [El PCR no detecta COVID](imagen) 
 - Murio Cary Mullis en el 2019.
 - Cómo funciona el PCR
-- Otros epidemiólogos y artículos advirtiendo sobre el PCR. 
+- Distintos opiniones de la OMS en cuento a PCR y letalidad
+  - [OMS advierte de la disminucion del valor positivo para las PCR para COVID, FALSOS POSITIVOS](https://www.actasanitaria.com/oms-predictivo-pcr/)
+- Otros epidemiólogos y artículos advirtiendo sobre el PCR.
+  -[Decano del Colegio de Biologos de Euskadi, 0:36 PCR, asintomaticos herramienta de miedo y 01:55 el negocio por hisopar](https://lbry.tv/@ABRELOSOJOS:4/EntrevistaJonAnderEtxebarr%C3%ADa:f) 
+  -[Epidemiologo de la Universidad de Stanford, John Loannidis, desmiente cifras de COVID](https://www.straight.com/covid-19-pandemic/stanford-university-researcher-john-ioannidis-relies-on-data-to-puncture-some-of-myths-about)
 - Modelos de predicción exagerados (Reino Unido)
-- Incentivos a reportar más casos positivos para hospitales. 
+- Incentivos a reportar más casos positivos para hospitales.
+  -[Austria y Alemania, camas vacias, las operaciones se pospondran y las camaras se mantendran libres para pacientes con corona. Incentivos economicos](https://www.wochenblick.at/bis-zu-30-000-euro-so-cashen-krankenhaeuser-mit-corona-patienten-ab/)    
 - Resumir lo anterior, aportar perspectiva.
+- Paises que rechazan las medidas politicas globalistas
+   -[Suecia reporta menos muertes que en la gripe Española y rechaza nuevas politicas](https://tierrapura.org/2021/03/11/suecia-reporta-menos-muertes-en-el-2020-que-en-el-2012-despues-de-rechazar-las-politicas-globalistas-del-virus-pcch/?v=1)
 - Cuarentena encierra a personas que ganan al día y son sosten familiar (apelar emoción).
 - Posible agenda, aprovechar el caos? Indispensable investigar a fondo.
 - Origen de laboratorio.
+- Antecedentes de gripes
+  - [Gripe A, financiamiento, miedo, medios, laboratorios, politica](https://odysee.com/@elconejodealicia:a/-2882933786847349348:a)(desglose por min)
+  - [Gripe A como se vivio, igual que ahora, quedate en casa, miedo, tv, acciones de la bolsa, OMS bajo sospecha](https://odysee.com/@elconejodealicia:a/GRIPE-A-:1)(desglose por min) 
 - Antecedentes de instituciones trabajando con virus y coronavirus, patentes.
+  - [China en 2013 creaba nuevos virus a partir de la Gripe Aviar en sus laboratorios](https://elpais.com/sociedad/2013/05/03/actualidad/1367584080_767702.html) 
 - Había conocimiento previo? Insider trading.
-- Evento 201. Mencionar participantes.
-- Rockefeller Scenarios.
+- Evento 201
+  - [Quien es Bill Gates y de donde viene? Historial con vaculas, patrocina Evento 201, grandes inversiones en Wuhan, Proyecto ID 2020](https://www.youtube.com/watch?v=ShGuviStK20&t=323s)
+- Que roll cumple Bill Gates?
+  - [Sara Cunial, diputada Italiana en el Parlamento acusa a Bill Gates de ser el causante del crimen de despoblación](https://odysee.com/@elconejodealicia:a/Diputada-Italiana-acusa-a-Bill-Gates-de-ser-el-causante-de-despoblacio%CC%81n-:2)
+- Gente que vive al día cómo enfrenta la cuarentena y el encierro. ¿Aumento en mortalidad?
+  - [OMS reconoce que la tasa de letalidad es normal](https://www.who.int/bulletin/volumes/99/1/20-265892-ab/es/)
+- Rockefeller escenarios. Surprise Outbreak.
+- Gente que vive al día cómo enfrenta la cuarentena y el encierro. ¿Aumento en mortalidad?
 
-Gente que vive al día cómo enfrenta la cuarentena y el encierro. ¿Aumento en mortalidad?
