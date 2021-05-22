@@ -41,4 +41,6 @@
 
 [Study: Most N.Y. COVID Patients on Ventilators Died](https://www.webmd.com/lung/news/20200422/most-covid-19-patients-placed-on-ventilators-died-new-york-study-shows#1)
 
+[Enfermera denuncia los mortales protocolos COVID: 'Los grabé asesinando pacientes'](https://trikooba.com/enfermera-denuncia-los-mortales-protocolos-covid-los-grabe-asesinando-pacientes/)
 
+[Perspectives on the Pandemic | The (Undercover) Epicenter Nurse (min:26 recompensas a hospitales)](https://odysee.com/@awakening-now:c/Perspectives-on-the-Pandemic_The-Undercover-Epicenter-Nurse:5)
