@@ -43,4 +43,4 @@
 
 [Enfermera denuncia los mortales protocolos COVID: 'Los grabé asesinando pacientes'](https://trikooba.com/enfermera-denuncia-los-mortales-protocolos-covid-los-grabe-asesinando-pacientes/)
 
-[Perspectives on the Pandemic | The (Undercover) Epicenter Nurse (min:26 recompensas a hospitales)](https://odysee.com/@awakening-now:c/Perspectives-on-the-Pandemic_The-Undercover-Epicenter-Nurse:5)
+[Perspectives on the Pandemic | The (Undercover) Epicenter Nurse (min:26 recompensas a hospitales, min 27:00 37y old and death, )](https://odysee.com/@awakening-now:c/Perspectives-on-the-Pandemic_The-Undercover-Epicenter-Nurse:5)
