@@ -11,3 +11,13 @@
 [WHO (finally) admits PCR tests create false positives](https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/)
 
 [Revelan graves errores en el modelo que se usó para establecer la prueba PCR como método de diagnóstico de SARS-CoV-2](https://www.mentealternativa.com/revelan-graves-errores-en-el-modelo-que-se-uso-para-establecer-la-prueba-pcr-como-metodo-de-diagnostico-de-sars-cov-2/)
+
+[Fauci Himself Admits Covid PCR Test at Over 35 Cycles Is Deceitful, Worse Than Useless (min 4:00)](https://lbry.tv/@mentealt:1/Covid-PCR-Test:3)
+
+[Review report Corman-Drosten et al. Eurosurveillance 2020](https://cormandrostenreview.com/report/)
+
+[Grupo de prestigiosos científicos revisa el estudio fundamental en que se basan kits PCR-RT para SARS-CoV-2, y encuentra «diez errores fatales» que lo hacen «inútil como herramienta específica de diagnóstico para identificar el virus». Juicio penal a su autor principal, Christian Drosten, avanza en Alemania](https://extramurosrevista.org/grupo-de-prestigiosos-cientificos-revisa-el-estudio-fundamental-en-que-se-basan-kits-pcr-rt-y-encuentra-diez-errores-fatales-que-lo-hacen-inutil-como-herramienta-especifica-de-diagnostico-para-i/)
+
+[Vieja entrevista a Christian Drosten, virólogo asesor del gobierno Alemán, donde aseguraba que las PCR no eran 'adecuadas'](https://trikooba.com/salio-a-la-luz-una-vieja-entrevista-de-christian-drosten-el-virologo-asesor-del-gobierno-aleman-donde-consideraba-que-las-pruebas-de-pcr-no-eran-adecuadas/)
+
+
