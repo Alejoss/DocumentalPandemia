@@ -24,4 +24,4 @@
 
 [SHOCK REPORT: This Week CDC Quietly Updated COVID-19 Numbers – Only 9,210 Americans Died From COVID-19 Alone – Rest Had Different Other Serious Illnesses](https://www.thegatewaypundit.com/2020/08/shock-report-week-cdc-quietly-updated-covid-19-numbers-9210-americans-died-covid-19-alone-rest-serious-illnesses/?ff_source=Twitter&ff_campaign=websitesharingbuttons)
 
-
+[El Gobierno maneja los testeos para que den los casos necesarios para encerrar a la gente](https://pablorossi.cienradios.com/pablo-rossi-gobierno-maneja-testeos-den-casos-necesarios-encerrar-gente/)
