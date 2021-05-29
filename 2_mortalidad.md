@@ -47,3 +47,4 @@
 
 [LA OTRA CARA DE LA MONEDA - Charla UM (min 14:35 mortalidad edad promedio, absurdo no hacer autopsias min 34:18, min 51:17 vacunación efectos adversos)](https://vimeo.com/547943549)
 
+[Comorbidities and other conditions](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm?fbclid=IwAR2-muRM3tB3uBdbTrmKwH1NdaBx6PpZo2kxotNwkUXlnbZXCwSRP2OmqsI)
