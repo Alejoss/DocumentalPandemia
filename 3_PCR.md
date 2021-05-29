@@ -20,4 +20,8 @@
 
 [Vieja entrevista a Christian Drosten, virólogo asesor del gobierno Alemán, donde aseguraba que las PCR no eran 'adecuadas'](https://trikooba.com/salio-a-la-luz-una-vieja-entrevista-de-christian-drosten-el-virologo-asesor-del-gobierno-aleman-donde-consideraba-que-las-pruebas-de-pcr-no-eran-adecuadas/)
 
+[Caught Red-Handed: CDC Changes Test Thresholds To Virtually Eliminate New COVID Cases Among Vaxx'd](https://www.zerohedge.com/covid-19/caught-red-handed-cdc-changes-test-thresholds-virtually-eliminate-new-covid-cases-among)
+
+[SHOCK REPORT: This Week CDC Quietly Updated COVID-19 Numbers – Only 9,210 Americans Died From COVID-19 Alone – Rest Had Different Other Serious Illnesses](https://www.thegatewaypundit.com/2020/08/shock-report-week-cdc-quietly-updated-covid-19-numbers-9210-americans-died-covid-19-alone-rest-serious-illnesses/?ff_source=Twitter&ff_campaign=websitesharingbuttons)
+
 
