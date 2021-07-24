@@ -11,4 +11,3 @@ También, nos encontramos con varios reportes del 2020 en los que se señala que
 
 [# US Virus Numbers Now Include Probable Cases Without Tests](https://www.usnews.com/news/health-news/articles/2020-04-15/us-virus-numbers-now-include-probable-cases-without-tests)  
 
- 

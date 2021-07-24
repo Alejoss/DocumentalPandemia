@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "31 - Hay q investigar el origen..md",
+            "file": "07 - Desaparición de la gripe.md",
             "mode": "source"
           }
         }
@@ -42,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31 - Hay q investigar el origen..md",
+                "file": "07 - Desaparición de la gripe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
-    "31 - Hay q investigar el origen..md",
-    "30 - CDC manipula los resultados del PCR.md",
-    "29 - PCRs positivos en todo tipo de cosas.md",
-    "28 - PCR no como diagnóstico.md",
-    "31 - orígenes 0.1 - Hay q investigar el origen..md",
-    "30 - reacción gubernamental 0.7 - CDC manipula los resultados del PCR.md",
-    "29 pcr PCRs positivos en todo tipo de cosas.md",
-    "28 pcr 0.8 PCR no como diagnóstico.md",
-    "27 pcr 0.7 Estudio Corman Drosten.md",
-    "26 pcr 0.6 OMS admitió que se generan falsos positivos.md"
+    "07 - Desaparición de la gripe.md",
+    "12 - La mayoría de muertos son mayores.md",
+    "09 - Incentivo económico por casos covid..md",
+    "08 - Dr John Ionadis.md",
+    "06 - Casos Probables.md",
+    "04 - impresión monetaria.md",
+    "03 - Indice oficial de muertos.md",
+    "02 - tasa oficial de mortalidad.md",
+    "01 Intro.md",
+    "20 - Protocolos erróneos.md"
   ]
 }
