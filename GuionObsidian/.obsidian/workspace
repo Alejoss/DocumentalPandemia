@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 - tasa oficial de mortalidad.md",
+            "file": "03 - Indice oficial de muertos.md",
             "mode": "source"
           }
         }
@@ -42,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - tasa oficial de mortalidad.md",
+                "file": "03 - Indice oficial de muertos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
-    "02 - tasa oficial de mortalidad.md",
     "03 - Indice oficial de muertos.md",
+    "08 - Dr John Ionadis.md",
+    "02 - tasa oficial de mortalidad.md",
+    "07 - Desaparición de la gripe.md",
+    "06 - Casos Probables.md",
+    "05 - Dr Genevive Briand.md",
     "04 - impresión monetaria.md",
-    "01 Intro.md",
-    "15 - Cambios en % de mortalidad..md",
     "14 - Comparación otras causas de muerte.md",
-    "13 - Exceso de muertes sin coherencia estadística.md",
-    "30 - CDC manipula los resultados del PCR.md",
     "31 - Hay q investigar el origen..md",
-    "05 - Dr Genevive Briand.md"
+    "30 - CDC manipula los resultados del PCR.md"
   ]
 }
