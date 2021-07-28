@@ -1,4 +1,4 @@
-Anterior: [[19 - Gobiernos prohibieron las autopsias]]
+Anterior: [[19 - Gobiernos recomendaron no hacer autopsias]]
 Siguiente: [[21 - Uso del PCR como estándar]]
 Relacionado:
 Tags: #mortalidad , #reaccion_gubernamental 
