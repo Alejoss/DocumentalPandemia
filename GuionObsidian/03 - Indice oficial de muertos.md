@@ -9,4 +9,3 @@ El índice oficial de muertes es **3 millones**.  Lo cual representa un **0.04%*
 
 -----------------------------------------------------------------
 
-	- Pagina oficial OMS
