@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ff133f297b1ea18d",
+        "id": "888dc771d117a276",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "14 - Comparación otras causas de muerte.md",
+            "file": "27 - Estudio Corman Drosten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 - Comparación otras causas de muerte.md",
+                "file": "27 - Estudio Corman Drosten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff133f297b1ea18d",
+  "active": "888dc771d117a276",
   "lastOpenFiles": [
-    "14 - Comparación otras causas de muerte.md",
-    "09 - Incentivo económico por casos covid..md",
-    "08 - Dr John Ionadis.md",
-    "02 - tasa oficial de mortalidad.md",
-    "06 - Casos Probables.md",
-    "05 - Dr Genevive Briand.md",
-    "03 - Indice oficial de muertos.md",
-    "04 - impresión monetaria.md",
+    "27 - Estudio Corman Drosten.md",
+    "27.1 Christian Drosten.md",
+    "27.md",
+    "25 - A más pruebas más contagios.md",
+    "Untitled 3.md",
     "01 Intro.md",
-    "15 - Cambios en % de mortalidad..md"
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "05 - Dr Genevive Briand.md"
   ]
 }
