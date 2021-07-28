@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 - Indice oficial de muertos.md",
+            "file": "14 - Comparación otras causas de muerte.md",
             "mode": "source"
           }
         }
@@ -42,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Indice oficial de muertos.md",
+                "file": "14 - Comparación otras causas de muerte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,26 +88,15 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-=======
-    "02 - tasa oficial de mortalidad.md",
-    "08 - Dr John Ionadis.md",
-    "06 - Casos Probables.md",
-    "05 - Dr Genevive Briand.md",
->>>>>>> Stashed changes
-    "03 - Indice oficial de muertos.md",
-    "08 - Dr John Ionadis.md",
-    "02 - tasa oficial de mortalidad.md",
-    "07 - Desaparición de la gripe.md",
-    "06 - Casos Probables.md",
-    "05 - Dr Genevive Briand.md",
-    "04 - impresión monetaria.md",
     "14 - Comparación otras causas de muerte.md",
-<<<<<<< Updated upstream
-    "31 - Hay q investigar el origen..md",
-    "30 - CDC manipula los resultados del PCR.md"
-=======
-    "13 - Exceso de muertes sin coherencia estadística.md"
->>>>>>> Stashed changes
+    "09 - Incentivo económico por casos covid..md",
+    "08 - Dr John Ionadis.md",
+    "02 - tasa oficial de mortalidad.md",
+    "06 - Casos Probables.md",
+    "05 - Dr Genevive Briand.md",
+    "03 - Indice oficial de muertos.md",
+    "04 - impresión monetaria.md",
+    "01 Intro.md",
+    "15 - Cambios en % de mortalidad..md"
   ]
 }
