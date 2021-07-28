@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "09 - Incentivo económico por casos covid..md",
+=======
+            "file": "14 - Comparación otras causas de muerte.md",
+>>>>>>> main
             "mode": "source"
           }
         }
@@ -42,7 +46,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "09 - Incentivo económico por casos covid..md",
+=======
+                "file": "14 - Comparación otras causas de muerte.md",
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +96,25 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "09 - Incentivo económico por casos covid..md",
     "14 - Comparación otras causas de muerte.md",
+=======
+    "14 - Comparación otras causas de muerte.md",
+    "09 - Incentivo económico por casos covid..md",
+>>>>>>> main
     "08 - Dr John Ionadis.md",
     "03 - Indice oficial de muertos.md",
     "02 - tasa oficial de mortalidad.md",
-    "07 - Desaparición de la gripe.md",
     "06 - Casos Probables.md",
     "05 - Dr Genevive Briand.md",
+    "03 - Indice oficial de muertos.md",
     "04 - impresión monetaria.md",
+<<<<<<< HEAD
     "31 - Hay q investigar el origen..md"
+=======
+    "01 Intro.md",
+    "15 - Cambios en % de mortalidad..md"
+>>>>>>> main
   ]
 }
