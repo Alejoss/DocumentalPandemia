@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "888dc771d117a276",
+        "id": "ff133f297b1ea18d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "27 - Estudio Corman Drosten.md",
+            "file": "27.1 Christian Drosten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27 - Estudio Corman Drosten.md",
+                "file": "27.1 Christian Drosten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,29 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "888dc771d117a276",
+  "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
-    "27 - Estudio Corman Drosten.md",
-<<<<<<< HEAD
     "27.1 Christian Drosten.md",
-    "27.md",
-    "25 - A más pruebas más contagios.md",
-    "Untitled 3.md",
-    "01 Intro.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "05 - Dr Genevive Briand.md"
-=======
+    "27 - Estudio Corman Drosten.md",
     "19 - Gobiernos prohibieron las autopsias.md",
     "Untitled.md",
-    "27.1 Christian Drosten.md",
     "28 - PCR no como diagnóstico.md",
     "18 - Predicción exagerada y polémica..md",
     "09 - Incentivo económico por casos covid..md",
     "14 - Comparación otras causas de muerte.md",
     "08 - Dr John Ionadis.md",
     "03 - Indice oficial de muertos.md"
->>>>>>> main
   ]
 }
