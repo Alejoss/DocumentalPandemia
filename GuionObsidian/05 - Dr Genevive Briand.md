@@ -12,3 +12,7 @@ Tomada la decisión de profundizar en el análisis, conviene preguntarse qué di
 -----------------------------------------------------------------
 
 
+[# GENEVIEVE BRIAND Covid-19 (article before being redacted)](https://odysee.com/GENEVIEVE-BRIAND-Covid-19-(article-before-being-redacted):3)
+
+[# COVID-19 Deaths: A Look at U.S. Data - Dr Genevieve Briand](https://odysee.com/@halloftruth:c/covid-19-deaths-a-look-at-US-data-dr-genevieve-briand:c)
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "26 - OMS admitió que se generan falsos positivos.md",
+            "file": "27 - Estudio Corman Drosten.md",
             "mode": "source"
           }
         }
@@ -42,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392
+    "width": 557
   },
   "right": {
     "id": "3a6ab79d896cd3b5",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26 - OMS admitió que se generan falsos positivos.md",
+                "file": "27 - Estudio Corman Drosten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
-    "26 - OMS admitió que se generan falsos positivos.md",
-    "25 - A más pruebas más contagios.md",
-    "22 - Kary Mullis no recomienda el uso del PCR.md",
-    "30 - CDC manipula los resultados del PCR.md",
-    "31 - Hay q investigar el origen..md",
     "27 - Estudio Corman Drosten.md",
+    "05 - Dr Genevive Briand.md",
     "27.1 Christian Drosten.md",
-    "27.md",
-    "Untitled 3.md",
-    "01 Intro.md"
+    "19 - Gobiernos prohibieron las autopsias.md",
+    "Untitled.md",
+    "28 - PCR no como diagnóstico.md",
+    "18 - Predicción exagerada y polémica..md",
+    "09 - Incentivo económico por casos covid..md",
+    "14 - Comparación otras causas de muerte.md",
+    "08 - Dr John Ionadis.md"
   ]
 }
