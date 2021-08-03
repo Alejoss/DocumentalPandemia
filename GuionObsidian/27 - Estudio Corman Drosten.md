@@ -39,3 +39,5 @@ Dr Kevin Corbett comentó:
 
 [The PCR Test does not Identify the Virus: Covid “False Positives” Used to Justify the Lockdown and Closure of the National Economy.](https://mydundasvalley.com/2021/02/05/the-pcr-test-does-not-identify-the-virus-covid-false-positives-used-to-justify-the-lockdown-and-closure-of-the-national-economy/)
 
+[# PCR Testing Scandal: Yes, We Were Duped](https://21stcenturywire.com/2021/02/27/pcr-testing-scandal-yes-we-were-duped/)
+
