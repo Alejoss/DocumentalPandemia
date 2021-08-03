@@ -7,8 +7,16 @@
         "id": "ff133f297b1ea18d",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "14 - Comparación otras causas de muerte.md",
+            "mode": "source"
+          }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -65,6 +73,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "14 - Comparación otras causas de muerte.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +96,7 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "41 - Escenarios Rockefeller.md",
     "38 - Alguien sería capaz?.md",
     "42 - Hubo Insider Trading.md",
@@ -94,5 +107,17 @@
     "34 - Dr Fauci - Ganancia de Función.md",
     "43 - Películas coincedencialmente parecidas.md",
     "44 - Los medios de comunicación, intro..md"
+=======
+    "14 - Comparación otras causas de muerte.md",
+    "05 - Dr Genevive Briand.md",
+    "04 - impresión monetaria.md",
+    "26 - OMS admitió que se generan falsos positivos.md",
+    "25 - A más pruebas más contagios.md",
+    "22 - Kary Mullis no recomienda el uso del PCR.md",
+    "30 - CDC manipula los resultados del PCR.md",
+    "31 - Hay q investigar el origen..md",
+    "27 - Estudio Corman Drosten.md",
+    "27.1 Christian Drosten.md"
+>>>>>>> Stashed changes
   ]
 }
