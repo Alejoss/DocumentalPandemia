@@ -6,3 +6,7 @@ Tags: #impacto_social
 --------------------------------------------------------
 
 también, hay que tener en cuenta que **la atención hospitalaria era algo extremadamente costoso**. 
+
+-------------------------------------------------------
+
+

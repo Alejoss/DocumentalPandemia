@@ -7,11 +7,8 @@
         "id": "ff133f297b1ea18d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "16 - Comparación con otras pandemias..md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16 - Comparación con otras pandemias..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
-    "16 - Comparación con otras pandemias..md",
-    "27 - Estudio Corman Drosten.md",
-    "27.1 Christian Drosten.md",
-    "28 - PCR no como diagnóstico.md",
-    "05 - Dr Genevive Briand.md",
-    "19 - Gobiernos prohibieron las autopsias.md",
-    "Untitled.md",
-    "18 - Predicción exagerada y polémica..md",
-    "09 - Incentivo económico por casos covid..md",
-    "14 - Comparación otras causas de muerte.md"
+    "41 - Escenarios Rockefeller.md",
+    "38 - Alguien sería capaz?.md",
+    "42 - Hubo Insider Trading.md",
+    "37 - Actores financiando investigaciones.md",
+    "35 - Farmacéuticas investigadoras de virus.md",
+    "33 - Antecedentes de laboratorios.md",
+    "39 - Hay algunos antecedentes interesantes.md",
+    "34 - Dr Fauci - Ganancia de Función.md",
+    "43 - Películas coincedencialmente parecidas.md",
+    "44 - Los medios de comunicación, intro..md"
   ]
 }

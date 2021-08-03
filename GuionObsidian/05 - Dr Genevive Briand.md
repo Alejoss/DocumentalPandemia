@@ -16,3 +16,4 @@ Tomada la decisión de profundizar en el análisis, conviene preguntarse qué di
 
 [# COVID-19 Deaths: A Look at U.S. Data - Dr Genevieve Briand](https://odysee.com/@halloftruth:c/covid-19-deaths-a-look-at-US-data-dr-genevieve-briand:c)
 
+

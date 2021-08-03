@@ -1,0 +1,1 @@
+Aparentemente, Wall Street también sabía de que se venía algo interesante. Hay considerable evidencia de **insider trading** que sugiere conocimiento previo. 
