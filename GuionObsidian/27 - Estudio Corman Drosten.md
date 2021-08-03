@@ -6,7 +6,7 @@ Tags: #pcr,
 ---------------------------------------------------------------------
 El PCR se asienta en una comparación con una cadena de ARN que supuestamente le corresponde al coronavirus. **Ésto fue establecido por un estudio que ha sido seriamente criticado. **.  
 
-El estudio Corman Drosten sirvió como estándar para la creación de los tests PCR. Entre otros porblemas, se realizó "sin tener el material del virus", en sus propias palabras. Se asentó sobre una cadena genética que el gobierno chino publicó en el internet. 
+El estudio Corman Drosten sirvió como estándar para la creación de los tests PCR. Entre otros porblemas, se realizó "sin tener el material del virus", en sus propias palabras.En el momento de generar el estudio, los autores no tenían acceso a el material genético aislado del virus y tuvieron que basarse en sequencias genéticas teóricas. Se asentó el estudio sobre una cadena genética que el gobierno chino publicó en el internet. 
 
 No pasó por el proceso de peer-review, fue publicado 24 horas después de presentarse a la revista científica Eurosurveillance. Un grupo de científicos de mucho renombre ha realizado una revisión y encontró 10 errores describieron como fatales en el proceso. Se puede obtener toda la información al respecto en https://cormandrostenreview.com/. Algunos de los científicos que participaron de esto son: 
 
@@ -24,6 +24,9 @@ No pasó por el proceso de peer-review, fue publicado 24 horas después de prese
 Dr Kevin Corbett comentó:
 - "Listen, the Corman/Drosten paper, there’s nothing from a patient in it. It’s all from gene banks. and the bits of the virus sequence that weren’t there they made up. They synthetically created them to fill in the blanks."
 
+Sin el material genético del virus, se usó secuencias teóricas para establecer el estándar de diagnóstico en la prueba PCR. El modelo asumió que el virus es muy similar al SARS-COV del 2003.
+
+También dice que el diseño de la prueba en sí está mal pues no discrimina entre fragmentos de virus y un virus completo. 
 
 
 ---------------------------------------------------------------------
