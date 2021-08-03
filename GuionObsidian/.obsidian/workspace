@@ -7,11 +7,24 @@
         "id": "ff133f297b1ea18d",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "markdown",
           "state": {
             "file": "27 - Estudio Corman Drosten.md",
             "mode": "source"
           }
+=======
+<<<<<<< Updated upstream
+          "type": "empty",
+          "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "14 - Comparación otras causas de muerte.md",
+            "mode": "source"
+          }
+>>>>>>> Stashed changes
+>>>>>>> main
         }
       }
     ],
@@ -68,7 +81,14 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "27 - Estudio Corman Drosten.md",
+=======
+<<<<<<< Updated upstream
+=======
+                "file": "14 - Comparación otras causas de muerte.md",
+>>>>>>> Stashed changes
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +108,7 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "27 - Estudio Corman Drosten.md",
     "Untitled.md",
     "25 - A más pruebas más contagios.md",
@@ -98,5 +119,30 @@
     "15 - Cambios en % de mortalidad..md",
     "14 - Comparación otras causas de muerte.md",
     "41 - Escenarios Rockefeller.md"
+=======
+<<<<<<< Updated upstream
+    "41 - Escenarios Rockefeller.md",
+    "38 - Alguien sería capaz?.md",
+    "42 - Hubo Insider Trading.md",
+    "37 - Actores financiando investigaciones.md",
+    "35 - Farmacéuticas investigadoras de virus.md",
+    "33 - Antecedentes de laboratorios.md",
+    "39 - Hay algunos antecedentes interesantes.md",
+    "34 - Dr Fauci - Ganancia de Función.md",
+    "43 - Películas coincedencialmente parecidas.md",
+    "44 - Los medios de comunicación, intro..md"
+=======
+    "14 - Comparación otras causas de muerte.md",
+    "05 - Dr Genevive Briand.md",
+    "04 - impresión monetaria.md",
+    "26 - OMS admitió que se generan falsos positivos.md",
+    "25 - A más pruebas más contagios.md",
+    "22 - Kary Mullis no recomienda el uso del PCR.md",
+    "30 - CDC manipula los resultados del PCR.md",
+    "31 - Hay q investigar el origen..md",
+    "27 - Estudio Corman Drosten.md",
+    "27.1 Christian Drosten.md"
+>>>>>>> Stashed changes
+>>>>>>> main
   ]
 }
