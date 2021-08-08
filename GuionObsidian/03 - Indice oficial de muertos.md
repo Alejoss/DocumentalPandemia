@@ -5,7 +5,9 @@ Tags: #estadisticas
 
 ------------------------------------------------------
 
-El índice oficial de muertes es **3 millones**.  Lo cual representa un **0.04%** de la población mundial.  
+El índice oficial de muertes es **4.2 millones**.  Lo cual representa un **0,00053%** de la población mundial.  
 
------------------------------------------------------------------
+--------------------------------------------------------
+
+[World Population](https://www.worldometers.info/world-population/)
 

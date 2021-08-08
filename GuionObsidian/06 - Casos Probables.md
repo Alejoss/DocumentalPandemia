@@ -5,7 +5,7 @@ Tags: #estadisticas
 
 ------------------------------------------------------
 
-También, nos encontramos con varios reportes del 2020 en los que se señala que los pacientes eran **reportados como casos de covid sin hacer ninguna prueba, se incluía "casos probables"**.
+También, nos encontramos con varios reportes del 2020 en los que se señala que los pacientes eran **reportados como casos de covid sin hacer ninguna prueba, se incluía "casos probables**.
 
 -------------------------------------------------------------------
 
