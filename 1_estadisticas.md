@@ -21,5 +21,3 @@
 [Hasta 73.000 dólares por entrar en la UCI: el coste de contagiarse del virus en EEUU](https://www.lainformacion.com/mundo/coronavirus-estados-unidos-coste-tratamiento-uci-pandemia/6562325/?autoref=true)
 
 [105. Sector Salud suscribe convenio con hospitales privados para hacer frente a la pandemia de COVID-19](https://www.gob.mx/salud/prensa/105-sector-salud-suscribe-convenio-con-hospitales-privados-para-hacer-frente-a-la-pandemia-de-covid-19)
-
-Cualquier Cambio
