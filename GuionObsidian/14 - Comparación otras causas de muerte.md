@@ -28,3 +28,6 @@ Aún creyendo los datos oficiales, visto desde una perspectiva, la mortalidad ge
 
 [# Las 10 principales causas de defunción](https://www.who.int/es/news-room/fact-sheets/detail/the-top-10-causes-of-death)
      
+	 
+[# Dr John Ioannidis Children 10,000 times less likely to die](https://odysee.com/@NJRE:f/JohnIoannidisSalzburg:f)
+	-	min 15:30 Pobreza y Hambre.
