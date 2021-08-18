@@ -1,15 +1,19 @@
 {
   "main": {
-    "id": "361b2da61ab066cc",
+    "id": "c1cb4271f897b7e8",
     "type": "split",
     "children": [
       {
-        "id": "ff133f297b1ea18d",
+        "id": "74a600506f001f51",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "08 - Dr John Ionadis.md",
+=======
+            "file": "09 - Incentivo económico por casos covid..md",
+>>>>>>> Stashed changes
             "mode": "source"
           }
         }
@@ -18,15 +22,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "77de84b6a0e49284",
+    "id": "ba10838feccd6480",
     "type": "split",
     "children": [
       {
-        "id": "7acf2b82bdb1f297",
+        "id": "209e3e7ab13223de",
         "type": "tabs",
         "children": [
           {
-            "id": "5d03e837866ba12e",
+            "id": "708b4c389687a065",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +38,7 @@
             }
           },
           {
-            "id": "37863fec7cd3e55a",
+            "id": "feeca60dc17a86ab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +56,31 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 520
+=======
+    "width": 387
+>>>>>>> Stashed changes
   },
   "right": {
-    "id": "3a6ab79d896cd3b5",
+    "id": "20a4d10e595f7c87",
     "type": "split",
     "children": [
       {
-        "id": "1ab87c4a6257d839",
+        "id": "5d8329a427d80b37",
         "type": "tabs",
         "children": [
           {
-            "id": "68ae024ad10f97c7",
+            "id": "34dfb3bece123381",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "08 - Dr John Ionadis.md",
+=======
+                "file": "09 - Incentivo económico por casos covid..md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +98,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff133f297b1ea18d",
+  "active": "74a600506f001f51",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "08 - Dr John Ionadis.md",
     "11 - Mortalidad incoherente..md",
     "12 - La mayoría de muertos son mayores.md",
@@ -98,5 +111,13 @@
     "24 - La prueba es subsidiada.md",
     "23 - Cómo funciona la PCR.md",
     "05 - Dr Genevive Briand.md"
+=======
+    "09 - Incentivo económico por casos covid..md",
+    "03 - Indice oficial de muertos.md",
+    "02 - tasa oficial de mortalidad.md",
+    "06 - Casos Probables.md",
+    "26 - OMS admitió que se generan falsos positivos.md",
+    "01 Intro.md"
+>>>>>>> Stashed changes
   ]
 }
