@@ -10,4 +10,5 @@ El índice oficial de muertes es **4.2 millones**.  Lo cual representa un **0,00
 --------------------------------------------------------
 
 [World Population](https://www.worldometers.info/world-population/)
+-	cuantos muertos por año?
 

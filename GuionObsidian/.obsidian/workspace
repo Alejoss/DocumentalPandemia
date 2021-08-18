@@ -9,11 +9,15 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
             "file": "08 - Dr John Ionadis.md",
 =======
             "file": "09 - Incentivo económico por casos covid..md",
 >>>>>>> Stashed changes
+=======
+            "file": "03 - Indice oficial de muertos.md",
+>>>>>>> main
             "mode": "source"
           }
         }
@@ -76,11 +80,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 "file": "08 - Dr John Ionadis.md",
 =======
                 "file": "09 - Incentivo económico por casos covid..md",
 >>>>>>> Stashed changes
+=======
+                "file": "03 - Indice oficial de muertos.md",
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,11 @@
   },
   "active": "74a600506f001f51",
   "lastOpenFiles": [
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+    "03 - Indice oficial de muertos.md",
+>>>>>>> main
     "08 - Dr John Ionadis.md",
     "11 - Mortalidad incoherente..md",
     "12 - La mayoría de muertos son mayores.md",
@@ -109,6 +121,7 @@
     "10 - Costo del tratamiento.md",
     "09 - Incentivo económico por casos covid..md",
     "24 - La prueba es subsidiada.md",
+<<<<<<< HEAD
     "23 - Cómo funciona la PCR.md",
     "05 - Dr Genevive Briand.md"
 =======
@@ -119,5 +132,8 @@
     "26 - OMS admitió que se generan falsos positivos.md",
     "01 Intro.md"
 >>>>>>> Stashed changes
+=======
+    "23 - Cómo funciona la PCR.md"
+>>>>>>> main
   ]
 }
