@@ -18,3 +18,4 @@ Debemos preguntarnos si había un incentivo a sobre reaccionar y si habían acto
    -	Art 2.3. Alta hospitalaria para COVID-19 con estancia en UCI: 43.400 euros.
 
 [# Los hospitales privados de Catalunya recibirán 43.400 euros por cada alta de la uci](https://www.elperiodico.com/es/sociedad/20200420/hospitales-privados-43400-euros-govern-alta-uci-coronavirus-7934035)
+
