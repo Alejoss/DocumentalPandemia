@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "08 - Dr John Ionadis.md",
+            "file": "03 - Indice oficial de muertos.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Dr John Ionadis.md",
+                "file": "03 - Indice oficial de muertos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "ff133f297b1ea18d",
   "lastOpenFiles": [
+    "03 - Indice oficial de muertos.md",
     "08 - Dr John Ionadis.md",
     "11 - Mortalidad incoherente..md",
     "12 - La mayoría de muertos son mayores.md",
@@ -96,7 +97,6 @@
     "10 - Costo del tratamiento.md",
     "09 - Incentivo económico por casos covid..md",
     "24 - La prueba es subsidiada.md",
-    "23 - Cómo funciona la PCR.md",
-    "05 - Dr Genevive Briand.md"
+    "23 - Cómo funciona la PCR.md"
   ]
 }
