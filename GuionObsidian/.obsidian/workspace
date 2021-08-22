@@ -9,15 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-            "file": "08 - Dr John Ionadis.md",
-=======
-            "file": "09 - Incentivo económico por casos covid..md",
->>>>>>> Stashed changes
-=======
-            "file": "03 - Indice oficial de muertos.md",
->>>>>>> main
+            "file": "21 - Uso del PCR como estándar.md",
             "mode": "source"
           }
         }
@@ -60,11 +52,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 520
-=======
     "width": 387
->>>>>>> Stashed changes
   },
   "right": {
     "id": "20a4d10e595f7c87",
@@ -80,15 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-                "file": "08 - Dr John Ionadis.md",
-=======
-                "file": "09 - Incentivo económico por casos covid..md",
->>>>>>> Stashed changes
-=======
-                "file": "03 - Indice oficial de muertos.md",
->>>>>>> main
+                "file": "21 - Uso del PCR como estándar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +88,7 @@
   },
   "active": "74a600506f001f51",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
@@ -131,15 +112,18 @@
     "14 - Comparación otras causas de muerte.md",
     "10 - Costo del tratamiento.md",
     "09 - Incentivo económico por casos covid..md",
-    "24 - La prueba es subsidiada.md",
-<<<<<<< HEAD
-    "23 - Cómo funciona la PCR.md",
-    "05 - Dr Genevive Briand.md"
 =======
-    "09 - Incentivo económico por casos covid..md",
-    "03 - Indice oficial de muertos.md",
-    "02 - tasa oficial de mortalidad.md",
+    "21 - Uso del PCR como estándar.md",
+    "25 - A más pruebas más contagios.md",
+>>>>>>> Stashed changes
+    "24 - La prueba es subsidiada.md",
+    "23 - Cómo funciona la PCR.md",
+    "22 - Kary Mullis no recomienda el uso del PCR.md",
+    "20 - Protocolos erróneos.md",
+    "18 - Predicción exagerada y polémica..md",
+    "19 - Gobiernos recomendaron no hacer autopsias.md",
     "06 - Casos Probables.md",
+<<<<<<< Updated upstream
     "26 - OMS admitió que se generan falsos positivos.md",
     "01 Intro.md"
 >>>>>>> Stashed changes
@@ -147,5 +131,8 @@
     "23 - Cómo funciona la PCR.md"
 >>>>>>> main
 >>>>>>> main
+=======
+    "05 - Dr Genevive Briand.md"
+>>>>>>> Stashed changes
   ]
 }
