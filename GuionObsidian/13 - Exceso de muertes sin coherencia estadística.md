@@ -9,7 +9,6 @@ No hay como negar el exceso de mortalidad, que nos presenta cuántas personas ex
 
 --------------------------------------------------------------
 
-**Dr Sam Bailey - What about excess mortality**.
 
 [# Excess Mortality - What You Aren't Being Told](https://odysee.com/@drsambailey:c/excess-mortality-what-you-aren-t-being:0) 
   min XXXX - Comparacion España Portugal
