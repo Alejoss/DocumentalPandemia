@@ -4,9 +4,10 @@ Relacionado:
 Tags: #pcr, 
 
 
----------------------------------------------------------------------
+--------------------------------------------------------------
 La Polimerase Chain Reaction toma un extracto de materia orgánica y la compara con una cadena de ARN después de haber pasado por X ciclos...
 
 (**Encontrar una animación adecuada**)
 
-----------------------------------------------------------------------
+--------------------------------------------------------------
+

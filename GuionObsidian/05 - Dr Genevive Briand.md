@@ -9,7 +9,7 @@ Tomada la decisión de profundizar en el análisis, conviene preguntarse qué di
 - **Llenar info**.
 - **Las muertes por otras causas han bajado considerablemente**. 
 
------------------------------------------------------------------
+--------------------------------------------------------------
 
 
 [# GENEVIEVE BRIAND Covid-19 (article before being redacted)](https://odysee.com/GENEVIEVE-BRIAND-Covid-19-(article-before-being-redacted):3)
@@ -20,7 +20,7 @@ Tomada la decisión de profundizar en el análisis, conviene preguntarse qué di
 - min 29:00 Las líneas de mortalidad del 2020 se ven extrañas, no son irregulares como las de los anteriores años.
 - min 32:00 A donde se fueron las muertes por paro cardíaco.
 - min 37:05 Comparación disminución de muertes en otras causas.
-- 38:13 Muertes de niños han sido menores a las 5 anteriores temporadas de gripe.
+- min 38:13 Muertes de niños han sido menores a las 5 anteriores temporadas de gripe.
 
 
 [# Johns Hopkins University censors lecturer, responds with critique ignoring CDC data](https://www.lifesitenews.com/news/johns-hopkins-university-censors-lecturer-responds-with-critique-ignoring-cdc-data/)

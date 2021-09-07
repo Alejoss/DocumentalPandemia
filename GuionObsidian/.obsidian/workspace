@@ -1,15 +1,19 @@
 {
   "main": {
-    "id": "c1cb4271f897b7e8",
+    "id": "6c30aa0c39441731",
     "type": "split",
     "children": [
       {
-        "id": "74a600506f001f51",
+        "id": "2ed1901dd4e5c260",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "21 - Uso del PCR como estándar.md",
+=======
+            "file": "13 - Exceso de muertes sin coherencia estadística.md",
+>>>>>>> Stashed changes
             "mode": "source"
           }
         }
@@ -18,15 +22,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ba10838feccd6480",
+    "id": "8c8fee9841d58c95",
     "type": "split",
     "children": [
       {
-        "id": "209e3e7ab13223de",
+        "id": "b2406a336f0ef52a",
         "type": "tabs",
         "children": [
           {
-            "id": "708b4c389687a065",
+            "id": "a10c951df833d3a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +38,7 @@
             }
           },
           {
-            "id": "feeca60dc17a86ab",
+            "id": "a2e10a45fdbfc9f9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +56,31 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 387
+=======
+    "width": 624
+>>>>>>> Stashed changes
   },
   "right": {
-    "id": "20a4d10e595f7c87",
+    "id": "41079a3d399874a6",
     "type": "split",
     "children": [
       {
-        "id": "5d8329a427d80b37",
+        "id": "d5a0fbba2766b4c1",
         "type": "tabs",
         "children": [
           {
-            "id": "34dfb3bece123381",
+            "id": "d5ad06f4bd34bf97",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "21 - Uso del PCR como estándar.md",
+=======
+                "file": "13 - Exceso de muertes sin coherencia estadística.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +98,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74a600506f001f51",
+  "active": "2ed1901dd4e5c260",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -133,6 +146,18 @@
 >>>>>>> main
 =======
     "05 - Dr Genevive Briand.md"
+>>>>>>> Stashed changes
+=======
+    "13 - Exceso de muertes sin coherencia estadística.md",
+    "08 - Dr John Ionadis.md",
+    "06 - Casos Probables.md",
+    "05 - Dr Genevive Briand.md",
+    "03 - Indice oficial de muertos.md",
+    "02 - tasa oficial de mortalidad.md",
+    "04 - impresión monetaria.md",
+    "09 - Incentivo económico por casos covid..md",
+    "12 - La mayoría de muertos son mayores.md",
+    "11 - Mortalidad incoherente..md"
 >>>>>>> Stashed changes
   ]
 }
