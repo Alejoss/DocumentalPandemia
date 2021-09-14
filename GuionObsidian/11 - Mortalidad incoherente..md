@@ -23,3 +23,4 @@ También, hay quienes señalan que los datos de mortalidad no se comportaron de 
 [# John Ioannidis, MD - Data-Driven vs. Non-Data-Driven Decision Making During the COVID-19 Pandemic](https://www.youtube.com/watch?v=g4TS38h81JE)
 -	min 27 dice "weird" la diferencia de mortalidad con NY o Barcelona, Hong Kong, Singapur.
 -	min 38 Cuidado con los death certificates.
+---Archivo en 08

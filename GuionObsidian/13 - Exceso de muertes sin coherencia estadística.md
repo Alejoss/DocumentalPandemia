@@ -11,7 +11,4 @@ No hay como negar el exceso de mortalidad, que nos presenta cuántas personas ex
 
 
 [# Excess Mortality - What You Aren't Being Told](https://odysee.com/@drsambailey:c/excess-mortality-what-you-aren-t-being:0) 
-  min XXXX - Comparacion España Portugal
-  
-
-
+  -Odysee no deja bajar

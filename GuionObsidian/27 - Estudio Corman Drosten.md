@@ -33,7 +33,7 @@ También dice que el diseño de la prueba en sí está mal pues no discrimina en
 
 [Desacreditan el articulo en que se basan los protocolos de las PCR](https://www.dsalud.com/reportaje/desacreditan-el-articulo-en-que-se-basan-los-protocolos-de-las-pcr/)
 - At the heart of the controversy lies the fact that the creators of the most commonly used test, the RT-PCR, published instructions for how to test for SARS-CoV-2 “without having virus material available,” in their own words, relying instead on the Chinese scientists’ genetic sequence published on the internet.
-
+- No permiten bajarse la pagina web, no permiten entrar al articulo completo sin subscripcion.
 
 [Ten Fatal Errors: Scientists Attack Paper That Established Global PCR Driven Lockdown](https://uncoverdc.com/2020/12/03/ten-fatal-errors-scientists-attack-paper-that-established-global-pcr-driven-lockdown/)
 

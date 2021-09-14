@@ -8,4 +8,4 @@ Tags: #pcr, #estadisticas
 
 ----------------------------------------------------------------------
 
-(# la OMS baja el nº de ciclos de los test PCR , eliminan los falsos positivos, creando la sensación de que las vacunas funcionan)[https://laverdadofende.blog/2021/03/13/la-oms-baja-el-no-de-ciclos-de-los-test-pcr-eliminan-los-falsos-positivos-creando-la-sensacion-de-que-las-vacunas-funcionan/]
+(# la OMS baja el nº de ciclos de los test PCR , eliminan los falsos positivos, creando la sensación de que las vacunas funcionan)[(https://laverdadofende.blog/2021/03/13/la-oms-baja-el-no-de-ciclos-de-los-test-pcr-eliminan-los-falsos-positivos-creando-la-sensacion-de-que-las-vacunas-funcionan/)]
