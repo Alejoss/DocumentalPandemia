@@ -14,6 +14,11 @@ Telegram:"Vaya sorpresa de video de Docentes por la verdad !
 Imperdible!  Si necesitabais material para defender nuestra posición de negarnos a las PCR's y las vacunas, aquí tenéis este vídeo que es para mirarlo con lápiz y papel en mano.  
 Difundir Padres por la verdad España, difundir hasta el infinito, que llegue a todos, especialmente a los jóvenes que estarían tomando su decidion5de vacunarse porque los compañeros lo harán, o porque quieren poder entrar a una discoteca sin restricciones.  Vamos a detener esto con INFORMACIÓN y sentido común."
 
+[C19 VAX REACTIONS](https://www.c19vaxreactions.com/)
+
+[Primer caso oficialmente reportado de miocarditis mortal atribuido a la vacuna de Pfizer/BioNTech en Nueva Zelanda](https://trikooba.com/primer-caso-oficialmente-reportado-de-miocarditis-mortal-atribuido-a-la-vacuna-de-pfizer-biontech-en-nueva-zelanda/)
+
+[]()
 []()
 []()
 []()

@@ -6,5 +6,14 @@ Supongo q el resto de cuadernos de estrategia q se publican x el IEEE van defini
 
 PDF: Estrategia de mitigación para enfrentar al COVID-19
 Telegram: "En México no se contaba con una estrategia prevista, muy por el contrario la fundamentación legal esta semi oculta en el articulado de nuestra carta magna, a la fecha sin embargo se publico en Marzo del 2020 ¿? una estrategia de mitigación para el COVID-19"
+
+[Emergencias pandémicas en un mundo globalizado: amenazas a la seguridad](http://www.ieee.es/publicaciones-new/cuadernos-de-estrategia/2020/Cuaderno_203.html)
+Telegram: "Hay un asunto en el seguimiento de las patentes que demuestran la antelación y preparación programada del COVID..."
+
+[El Dr. David Martin presenta las patentes que ponen en evidencia la conspiración criminal del COVID-19](https://trikooba.com/el-dr-david-martin-presenta-las-patentes-que-ponen-en-evidencia-la-conspiracion-criminal-del-covid-19/)
+
 []()
-    []()
+[]()
+[]()
+[]()
+[]()

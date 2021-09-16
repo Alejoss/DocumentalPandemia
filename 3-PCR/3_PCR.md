@@ -35,5 +35,5 @@
   
    [# El CDC (centro de deteccion de enfermedades) de EEUU, admite que hay que buscar otro sistema de deteccion de Covid-19 ya que los PCR no distinguen entre la gripe comun y el Sars-Cov2, y ponen la fecha a finales de 2021]([https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-Changes_CDC_RT-PCR_SARS-CoV-2_Testing_1.html](https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-Changes_CDC_RT-PCR_SARS-CoV-2_Testing_1.html "https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-Changes_CDC_RT-PCR_SARS-CoV-2_Testing_1.html"))
    
-	[]()
+[The S proteins of human coronavirus NL63 and severe acute respiratory syndrome coronavirus bind overlapping regions of ACE2](https://www.sciencedirect.com/science/article/pii/S0042682207003236?via%3Dihub)
 	  []()
