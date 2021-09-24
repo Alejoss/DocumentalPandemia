@@ -48,3 +48,24 @@
 [LA OTRA CARA DE LA MONEDA - Charla UM (min 14:35 mortalidad edad promedio, absurdo no hacer autopsias min 34:18, min 51:17 vacunación efectos adversos)](https://vimeo.com/547943549)
 
 [Comorbidities and other conditions](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm?fbclid=IwAR2-muRM3tB3uBdbTrmKwH1NdaBx6PpZo2kxotNwkUXlnbZXCwSRP2OmqsI)
+
+[ Comparativo internacional entre el número de decesos por covid-19 y el exceso de mortalidad](https://datos.nexos.com.mx/el-exceso-de-mortalidad-un-comparativo-internacional/muertes-covid-1/)
+
+[ Comparativo internacional entre del exceso de mortalidad per cápita](https://datos.nexos.com.mx/el-exceso-de-mortalidad-un-comparativo-internacional/muertes-covid-2/)
+
+[El exceso de mortalidad en la pandemia: a las 46.000 muertes de más de la primera ola se suman ya 35.000 desde septiembre](https://www.eldiario.es/sociedad/muertes-esperadas-septiembre-evoluciona-peor-crisis-mortalidad-inicio-democracia-exceso-momo-8-de-junio_1_6946073.html)
+
+[ El exceso de la mortalidad por la pandemia](https://www.fundacionmf.org.ar/visor-producto.php?cod_producto=5813)
+
+[Coronavirus en África: la sorprendente teoría que puede explicar el misterio de la baja tasa de mortalidad del covid-19](https://www.bbc.com/mundo/noticias-internacional-54012501)
+
+[entender que esta pasando y que ha pasado]([https://www.xataka.com/investigacion/our-world-in-data-web-imprescindible-para-entender-que-ha-pasado-esta-pasando-2020-2021](https://www.xataka.com/investigacion/our-world-in-data-web-imprescindible-para-entender-que-ha-pasado-esta-pasando-2020-2021))
+
+[ COVID-19 death rate vs. Population density, Sep 23, 2021](https://ourworldindata.org/grapher/covid-19-death-rate-vs-population-density)](https://ourworldindata.org/grapher/covid-19-death-rate-vs-population-density)
+
+[Estadísticas, página 8, Exceso de mortalidad México, muestra 193,170 muertes más de las esperadas]([https://coronavirus.gob.mx/wp-content/uploads/2020/10/BoletinIV_ExcesoMortalidad_SE39MX21102020.pdf](https://coronavirus.gob.mx/wp-content/uploads/2020/10/BoletinIV_ExcesoMortalidad_SE39MX21102020.pdf))
+[]()
+[]()
+[]()
+[]()
+

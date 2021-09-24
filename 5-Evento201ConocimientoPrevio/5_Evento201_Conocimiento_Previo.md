@@ -12,6 +12,27 @@ Telegram: "Hay un asunto en el seguimiento de las patentes que demuestran la ant
 
 [El Dr. David Martin presenta las patentes que ponen en evidencia la conspiración criminal del COVID-19](https://trikooba.com/el-dr-david-martin-presenta-las-patentes-que-ponen-en-evidencia-la-conspiracion-criminal-del-covid-19/)
 
+[ La distopía sin datos del COVID | Tom Woods](https://www.youtube.com/watch?v=2-Vq0nNHycE&ab_channel=CentroMises)
+Telegram:"El presidente de Tanzania revelo la inconsistencia de los PCR y advirtió sobre el peligro de las vacunas, murio misteriosamente hace un mes."
+
+
+[COMUNICACIONES INALÁMBRICAS 5G Y ESTUDIOS SOBRE SUS EFECTOS EN LA SALUD (INDICE DE ARTÍCULOS)](https://telegra.ph/COMUNICACIONES-INAL%C3%81MBRICAS-5G-Y-ESTUDIOS-SOBRE-SUS-EFECTOS-EN-LA-SALUD-INDICE-DE-ART%C3%8DCULOS-01-07)
+
+
+[Anabella evento 201](https://twitter.com/anabellan76/status/1382857917368520706?s=21)
+
+[ La Nueva Normalidad - Documental (Subtitulos en español)](https://odysee.com/@ElClubDeLaLibertad:2/La-Nueva-Normalidad---Documental-sobre-la-Pandemia:2?&sunset=lbrytv)
+
+[ Evento 201 en español, Pandemia un Simulacro que se hizo Realidad](https://www.youtube.com/watch?v=evrMpOTzubc&ab_channel=SamuelSosaAlmonteRealidadyCiencia)
+
+[ Yuval Noah Harari: the world after coronavirus | Free to read](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75?fbclid=IwAR3iCKOf9DeGrOgLLu0ZczVuf8s5ssarZsgLQLnGUHmdRK7R1ZxiRKxyCag)
+
+[Plandemic](https://odysee.com/@MusicaAstral:e/PLANdemicDocumentary:8?&sunset=lbrytv)
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 []()
 []()

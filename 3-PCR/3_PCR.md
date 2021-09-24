@@ -36,4 +36,25 @@
    [# El CDC (centro de deteccion de enfermedades) de EEUU, admite que hay que buscar otro sistema de deteccion de Covid-19 ya que los PCR no distinguen entre la gripe comun y el Sars-Cov2, y ponen la fecha a finales de 2021]([https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-Changes_CDC_RT-PCR_SARS-CoV-2_Testing_1.html](https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-Changes_CDC_RT-PCR_SARS-CoV-2_Testing_1.html "https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-Changes_CDC_RT-PCR_SARS-CoV-2_Testing_1.html"))
    
 [The S proteins of human coronavirus NL63 and severe acute respiratory syndrome coronavirus bind overlapping regions of ACE2](https://www.sciencedirect.com/science/article/pii/S0042682207003236?via%3Dihub)
-	  []()
+
+
+[Cuidado con este vídeo que afirma que los hisopos que se usan para los test PCR poseen un “poderoso cancerígeno”: la normativa garantiza que los niveles de óxido de etileno en los productos sanitarios estén dentro de los límites de seguridad](https://maldita.es/malditaciencia/20210412/hisopos-test-pcr-poseen-un-poderoso-cancerigeno-oxido-etileno/)
+
+[No, los hisopos que se usan para los test PCR no contienen “un potente cancerígeno”](https://chequeado.com/el-explicador/no-los-hisopos-que-se-usan-para-los-test-pcr-no-contienen-un-potente-cancerigeno/)
+
+[ Ethylene Oxide Sterilization for Medical Devices](https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/ethylene-oxide-sterilization-medical-devices)
+
+[ Óxido de etileno](https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/oxido-de-etileno)
+
+[ Your Coronavirus Test Is Positive. Maybe It Shouldn’t Be.](https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html)
+
+[ Pablo Goldschmidt | Información Importante sobre los Tests de Covid-19](https://www.youtube.com/watch?v=VZ9UkobpWXU&ab_channel=RogerBiderbost)
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()

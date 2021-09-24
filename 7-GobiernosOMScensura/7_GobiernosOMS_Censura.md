@@ -27,3 +27,15 @@ Telegram: "**Alfonso Longo** analiza en detalle el **confinamiento**, como medid
 Y ahora toca esperar... A que mañana Juan no aparezca muerto de "casualidad" porque a alguien se le ha "ido la mano" así sin querer.
 
 -------------------
+
+
+[DR. KARY MULLIS PREMIO NOBEL PLAN DETRAS DE LA PLANDEMIA](https://www.bitchute.com/video/POAYJSJQ1d4T/)
+
+[ Pandemias de influenza](https://www.historyofvaccines.org/index.php/es/contenido/articulos/pandemias-de-influenza)
+
+[Coronavirus Is the Perfect Disaster for ‘Disaster Capitalism’](https://www.vice.com/en/article/5dmqyk/naomi-klein-interview-on-coronavirus-and-disaster-capitalism-shock-doctrine)
+[]()
+[]()
+[]()
+[]()
+[]()

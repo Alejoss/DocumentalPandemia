@@ -3,3 +3,14 @@
 [Decreto-ley 12/2020, de 10 de abril, por el que se adoptan medidas presupuestarias, en relación con el Sistema sanitario integral de utilización pública de Cataluña](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-5649)
 
  [Los hospitales privados de Catalunya recibirán 43.400 euros por cada alta de la uci](https://www.elperiodico.com/es/sociedad/20200420/hospitales-privados-43400-euros-govern-alta-uci-coronavirus-7934035)
+ 
+ [ Ana Carrasco: MASCARILLAS](https://www.youtube.com/watch?v=M81oygDbYdA&ab_channel=C%C3%ADrculodeBellasArtes)
+ 
+[# DRA. CHINDA BRANDOLINO](https://odysee.com/@ElPatriota1776:b/living-acoustic-viper:4?&sunset=lbrytv)
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()

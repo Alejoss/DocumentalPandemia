@@ -29,4 +29,31 @@
 
 [Opinion: To stop the next pandemic, we need to unravel the origins of COVID-19](https://www.pnas.org/content/117/47/29246#ref-3)
 
-  [# La Proteina Espiga es la responsable de los efectos adversos en las vacunas K0 B1T](https://cienciaysaludnatural.com/la-proteina-espiga-es-la-responsable-de-los-efectos-adversos-en-las-vacunas-k0-b1t/)
+  [ La Proteina Espiga es la responsable de los efectos adversos en las vacunas K0 B1T](https://cienciaysaludnatural.com/la-proteina-espiga-es-la-responsable-de-los-efectos-adversos-en-las-vacunas-k0-b1t/)
+  
+  [INVESTIGACIÓN: ORIGEN, EVOLUCIÓN, INSERCIONES GENÉTICAS Y VACUNAS SOBRE EL SARS-nCOV2 (Parte 1)](https://telegra.ph/INVESTIGACI%C3%93N-ORIGEN-EVOLUCI%C3%93N-INSERCIONES-GEN%C3%89TICAS-Y-VACUNAS-SOBRE-EL-SARS-nCOV2-Parte-1-04-16)
+  
+  [Lentiviral vector based immunological compounds against malaria](https://patents.google.com/patent/US9822153B2/en)
+  
+  [https://www.mundoesotericoparanormal.com/elon-musk-acusa-bill-gates-utilizar-vacunas-controlar-poblacion/](https://www.mundoesotericoparanormal.com/elon-musk-acusa-bill-gates-utilizar-vacunas-controlar-poblacion/)
+  
+[# Laboratories in US can’t find Covid-19 in one of 1,500 positive tests](https://greatreject.org/laboratories-cant-find-covid-19-in-positive-tests/)
+
+[# Médicos de la isla aconsejan dióxido de cloro a pesar de su peligrosidad y en contra del criterio del Colegio]([https://www.diariodemallorca.es/mallorca/2020/10/12/dioxido-cloro-tratamiento-prohibido-covid-18316218.html](https://www.diariodemallorca.es/mallorca/2020/10/12/dioxido-cloro-tratamiento-prohibido-covid-18316218.html))
+
+[30 entidades con tendencia a la baja en contagios de Covid-19](https://www.jornada.com.mx/notas/2021/04/26/politica/se-mantiene-a-la-baja-tendencia-de-casos-estimados-de-covid-19-ssa/)
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()

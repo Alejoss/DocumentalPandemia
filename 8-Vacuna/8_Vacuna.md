@@ -18,6 +18,46 @@ Difundir Padres por la verdad España, difundir hasta el infinito, que llegue a 
 
 [Primer caso oficialmente reportado de miocarditis mortal atribuido a la vacuna de Pfizer/BioNTech en Nueva Zelanda](https://trikooba.com/primer-caso-oficialmente-reportado-de-miocarditis-mortal-atribuido-a-la-vacuna-de-pfizer-biontech-en-nueva-zelanda/)
 
+
+
+
+[ VACUNAS COVID 19| ¿Pueden ser hechas en menos de un año? | LA VERDAD Dr Veller](https://www.youtube.com/watch?v=mGFMU8pqhD0&ab_channel=Dr.Veller)
+
+[UNA MÉDICA ALEMANA DESTAPA TODA LA VERDAD](https://www.youtube.com/watch?v=ypxcRKDJ6Jk&ab_channel=LaVerdadnoshar%C3%A1libres)
+Telegram: "#8 #10 movimiento antivacuna discurso doctora alemana (4:45 – 5:26,,) y el gran negocio de la industria farmacéutica y la doctrina del miedo (0:48 – 1:55)"
+
+[ Los CDC informan 5.800 infecciones por covid-19 en personas completamente vacunadas en EE.UU.](https://cnnespanol.cnn.com/2021/04/15/cdc-infecciones-covid-completamente-vacunados-trax/)
+
+[se registra covid con vacunados](https://www.20minutos.es/noticia/4570625/0/por-que-registrando-brotes-covid-entre-vacunados-segunda-dosis/)
+
+[Contracara N°20 – No juegues con tu salud, NO te Vacunes](https://canaltlv1.com/contracara-n19-no-juegues-con-tu-salud-no-te-vacunes)
+Telegram:"**#1**. #2. #3. #6 #7 #9**  
+05:40 Rio de Janeiro, no me cerraban las estadisticas. (Comparado a lo q se decia en la tv Arg. Sobre Brasil)  
+07:41 Facebook “El Enemigo”  
+09:00 Epidemologo de la Universidad de Stanford, John Ioannidis. (Esta bloqueado en California por desmentir cifras del Covid) ANEXO ABAJO  
+10:05 Test PCR (falsos positivos) y RECONOCIDO por la OMS ANEXO ABAJO  
+10:50 Tasa letalidad 10% imponiendo TERROR en Marzo 2020  
+12:00 inflaron casos para encerrar al mundo. Ver ejemplos de Italia en Anexo 09:00.  
+12:35 Italia comenzo diciendo que tenian una letalidad del 10%, concluyo en menos de 0,20%  
+12:55 No se midieron los anticuerpos. La Inmunodad celular  
+13:25 La OMS reconoce que la tasa de letalidad es normal ANEXO ABAJO  
+14:00 Imágenes del terror principios del 2020. MENTIRAS. ANEXO ABAJO  
+16:00 Medidas ineficaces, con mas olas de miedo. Ej, Suecia, esta mejor q nosotros sin esta farsa.  
+17:00 Estadisticas de muertes por año/hoy dia de Argentina. NO VARIO! ES IGUAL  
+18:10 Cada vez vamos a tener mas muertos, pobreza, hambre, personas no tratadas con enfermedades cronicas…  
+19:00 las vacunas son experimentos genicos  
+19:30 Reflexion, medicos siguen protocolos.  
+20:25 Tapabocas no sirven mas que para controlar a la poblacion.  
+20:30 medicos negocios.  
+21:30 patologia mal disgnosticdas. La gente tiene miedo de ir a las guardias, por que los someten a hisopado teniendo otra cosa que nada que ver.**"
+
+[ Southampton hotspot will require vaccine card for entry](https://pagesix.com/2021/04/26/buddha-lounge-in-southampton-to-require-vaccine-card-for-entry/?utm_source=NYPMetroTwitter&utm_medium=SocialFlow&utm_campaign=SocialFlow)
+
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 []()
 []()

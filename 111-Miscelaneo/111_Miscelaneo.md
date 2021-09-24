@@ -14,3 +14,72 @@ PDF: 1200-studies-The-Truth-Will-Prevail-v2.4_08-15-19
 
   [ JUNTA ARGENTINA DE REVISIÓN CIENTÍFICA](https://drive.google.com/file/d/1X1NKdRN_3uo7Gz6qFCJ7j6qPin2k_CG5/view)
   Telegram: "Este documento me parece muy completo, incluso en nuestro guion podría darse un espacio a la enzima ACE2"
+  
+ 
+  [Estudio de la correlación entre casos de coronavirus y la presencia de redes 5G - Bartomeu Payeras i Cifre]( https://www.brighteon.com/2c8cf6f3-c59f-46da-973e-c688a6262b05)
+  
+[# Comunicación inalámbrica 5G - Funcionamiento básico y Estudios sobre sus efectos en la salud general, tejidos y órganos humanos. (Parte 1)](https://telegra.ph/CONSCIENCIA-Y-CONCIENCIA-COLECTIVA---5G-Y-BIOLOG%C3%8DA-HUMANA---04-03012021-01-05)
+
+
+[https://www.msdmanuals.com/es-co/professional/enfermedades-infecciosas/virus-respiratorios/coronavirus-y-s%C3%ADndromes-respiratorios-agudos-covid-19-mers-y-sars?query=sars%20cov%202](https://www.msdmanuals.com/es-co/professional/enfermedades-infecciosas/virus-respiratorios/coronavirus-y-s%C3%ADndromes-respiratorios-agudos-covid-19-mers-y-sars?query=sars%20cov%202)
+
+
+
+[Entrevista con el Dr Abdreas Kalcker](https://www.spreaker.com/user/alerta1111oficial/jueves15-de-abril-entrevista-al-dr-abdre)
+
+
+[ES TIEMPO DE DESPERTAR (125) ENTREVISTA AL DR. THOMAS COWAN: “LAS ONDAS MILIMÉTRICAS 5G SON UN ARMA PARA ENFERMAR A LA GENTE CON COVID”](https://loquepodemoshacer.wordpress.com/2021/04/18/es-tiempo-de-despertar-125-entrevista-al-dr-thomas-cowan-las-ondas-milimetricas-5g-son-un-arma-para-enfermar-a-la-gente-con-covid/)
+
+
+[ De dónde viene la tradición de quitarse los zapatos antes de entrar en casa (y qué dice la ciencia sobre ella)](https://www.bbc.com/mundo/noticias-52654256)
+
+[Entrevista a Jon Ander Etxebarría, Decano del Colegio de biólogos de Euskadi](https://odysee.com/@ABRELOSOJOS:4/EntrevistaJonAnderEtxebarr%C3%ADa:f)
+Telegram:"10#. 01:25 Proveniente de una familia extremadamente poderosa desde 1883  
+2:02 Foto de papá Gates con Soros, Rockefeller, Turner (1921) todos miembros de la junta directiva de la liga estadounidence para el control de la natalidad.  
+5#. 2:20 mamá Gates proveniente de familia de banqueros (Fundadores de City bank y director de la FED en Seattle)  
+5:15 Crea la fundación Bill and Melinda Gates en el 2000 junto a Warren Buffet.  
+8#. 6:55 Entre 2000 y 2017 vacunaron masivamente niños en India, les generó parálisis flácida aguda.  
+8:01 Foto, papa Gates, D. Rockefeller, Soros, ANTHONY FAUCI…  
+8:10 Desde 1874, la industria farmacéutica y petrolera son lo mismo. Comenzando con Rockefeller seguido por Gates. FORMULA: PROBLEMA REACCION SOLUCION.  
+10#. 9:00 Viajaba a la isla de Epstein (pedofilia)  
+9:35 Charla TED. 2015 Bill predijo el virus.  
+#5. 10:00 2019 la fundación B&M Gates patrocino el Evento 201 durante el foro económico mundial de NY.  
+4#. 10:20 Al mismo tiempo en Wuhan se realizaban los juegos militares mundiales un evento en el que representaron a los ejércitos de 130 países con decenas de miles de soldados, fue ahí donde se empezaron a notar los primeros casos de Covid.  
+10:48 Grandes inversiones en el laboratorio de la Universidad de Wuhan.  
+10#. 12:15 Proyecto ID 2020"
+
+
+[El coronavirus como experiencia filosófica, por Roger-Pol Droit - CASA BLACKIE](https://www.youtube.com/watch?v=qmMmImN1OSg&ab_channel=BlackieBooks)
+
+
+[ CORONAVIRUS | Diccionario Filosófico COVID-19: Nuevas perspectivas para viejos conceptos (IFS-CSIC)](https://www.youtube.com/watch?v=iv-SCFODdrk&ab_channel=CCHSCSIC)
+
+[ Una aproximación filosófica a la crisis del COVID-19 con Martín Hopenhayn](https://www.youtube.com/watch?v=t1Dj6XHsQJI&ab_channel=CasadeAm%C3%A9rica)
+
+[ SER MORTAL| DICCIONARIO FILOSÓFICO COVID-19: NUEVAS PERSPECTIVAS PARA VIEJOS CONCEPTOS (IFS-CSIC)](https://www.youtube.com/watch?v=2VWfYVoWJYQ&ab_channel=CCHSCSIC)
+
+[ Superanticuerpos contra la covid-19: el estadounidense que es naturalmente inmune a la enfermedad](https://www.youtube.com/watch?v=qTXfbi7l7Yo&ab_channel=BBCNewsMundo)
+
+[Rebeldia](https://www.youtube.com/watch?v=qyj5O_0nlSw&ab_channel=C%C3%ADrculodeBellasArtes)
+Telegram: minuto 1:40
+
+[DOCUMENTAL “LA NUEVA NORMALIDAD”: CÓMO EL 1% QUIERE CONTROLAR AL 99% DE LA HUMANIDAD](https://www.laabeja.pe/documental-la-nueva-normalidad-como-el-1-quiere-controlar-al-99-de-la-humanidad/)
+
+[ Athenea Mata: ABRAZO](https://www.youtube.com/watch?v=KdSu6UPExVU&ab_channel=C%C3%ADrculodeBellasArtes)
+Telegram: minuto 8
+
+[# Un disidente de la pandemia: Fernando Andacht y su crítica a la "panmedicalización"](https://www.youtube.com/watch?v=06zYu4jHJzU&ab_channel=EnPerspectiva)
+
+[OMS pide más estudios y datos sobre el origen del SARS-CoV-2 y reitera que todas las hipótesis siguen abiertas]([https://www.who.int/es/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open](https://www.who.int/es/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open))
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
