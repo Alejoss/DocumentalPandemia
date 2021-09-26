@@ -64,6 +64,26 @@
 [ COVID-19 death rate vs. Population density, Sep 23, 2021](https://ourworldindata.org/grapher/covid-19-death-rate-vs-population-density)](https://ourworldindata.org/grapher/covid-19-death-rate-vs-population-density)
 
 [Estadísticas, página 8, Exceso de mortalidad México, muestra 193,170 muertes más de las esperadas]([https://coronavirus.gob.mx/wp-content/uploads/2020/10/BoletinIV_ExcesoMortalidad_SE39MX21102020.pdf](https://coronavirus.gob.mx/wp-content/uploads/2020/10/BoletinIV_ExcesoMortalidad_SE39MX21102020.pdf))
+
+[ Las consecuencias de la “higiénica” y “encubierta” muerte por covid](https://elpais.com/ciencia/2021-04-24/las-consecuencias-de-la-higienica-y-encubierta-muerte-por-covid.html)
+
+[excess mortality rate covid 19]([https://voxeu.org/article/us-excess-mortality-rate-covid-19-substantially-worse-europe-s](https://voxeu.org/article/us-excess-mortality-rate-covid-19-substantially-worse-europe-s))
+
+[¿Qué preguntarnos a la hora de trabajar con los datos de la pandemia?]([https://youtu.be/FvEAw32W4rs](https://youtu.be/FvEAw32W4rs))
+
+[Matemáticas y estadística del coronavirus]([https://www.connectas.org/labs/matematicas-estadistica-coronavirus/](https://www.connectas.org/labs/matematicas-estadistica-coronavirus/))
+
+[COVID-19 10 Meses - ¿Más Muertes que el VIH/SIDA y la Tuberculosis?](https://www.youtube.com/watch?v=GowWgm7J6oE&ab_channel=laVidaenunGr%C3%A1fico)
+
+[ Covid-19: ☠️ Muertes en Exceso Totales y cada 100.000 Habitantes sobre lo Esperado sin Coronavirus](https://www.youtube.com/watch?v=ZjlZJNeOLp8&ab_channel=Graf%C3%ADcamelo)
+
+[ How coronavirus charts can mislead us](https://www.youtube.com/watch?v=O-3Mlj3MQ_Q&ab_channel=Vox)
+
+[gripe, los otros miles de muertos que pueden evitar]([https://www.elindependiente.com/vida-sana/salud/2021/01/02/sin-noticias-de-la-gripe-los-otros-miles-de-muertos-que-las-mascarillas-pueden-evitar/](https://www.elindependiente.com/vida-sana/salud/2021/01/02/sin-noticias-de-la-gripe-los-otros-miles-de-muertos-que-las-mascarillas-pueden-evitar/))
+
+[gripe mata mas de 10 veces que lo que figura en las cifras oficiales]([https://www.elindependiente.com/vida-sana/salud/2019/10/17/la-gripe-mata-hasta-10-veces-mas-de-lo-que-figura-en-las-cifras-oficiales/](https://www.elindependiente.com/vida-sana/salud/2019/10/17/la-gripe-mata-hasta-10-veces-mas-de-lo-que-figura-en-las-cifras-oficiales/))
+[]()
+[]()
 []()
 []()
 []()

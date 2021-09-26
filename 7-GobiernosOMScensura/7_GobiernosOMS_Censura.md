@@ -34,7 +34,8 @@ Y ahora toca esperar... A que mañana Juan no aparezca muerto de "casualidad" po
 [ Pandemias de influenza](https://www.historyofvaccines.org/index.php/es/contenido/articulos/pandemias-de-influenza)
 
 [Coronavirus Is the Perfect Disaster for ‘Disaster Capitalism’](https://www.vice.com/en/article/5dmqyk/naomi-klein-interview-on-coronavirus-and-disaster-capitalism-shock-doctrine)
-[]()
+
+[mexico la segunda peor estrategia contra covid]([https://www.eluniversal.com.mx/ciencia-y-salud/mexico-la-segunda-peor-estrategia-contra-el-covid-19](https://www.eluniversal.com.mx/ciencia-y-salud/mexico-la-segunda-peor-estrategia-contra-el-covid-19))
 []()
 []()
 []()

@@ -43,9 +43,12 @@
 
 [30 entidades con tendencia a la baja en contagios de Covid-19](https://www.jornada.com.mx/notas/2021/04/26/politica/se-mantiene-a-la-baja-tendencia-de-casos-estimados-de-covid-19-ssa/)
 
-[]()
-[]()
-[]()
+[ Pfizer quiere tener lista su píldora contra la covid a final de año](https://www.hoy.es/sociedad/salud/pfizer-quiere-tener-20210427105214-ntrc.html)
+
+[ De cómo Pfizer va preparándose el terreno: será "necesaria" una 3ª dosis.]([https://www.lostiempos.com/actualidad/mundo/20210416/pfizer-preve-que-tercera-dosis-su-vacuna-sera-probablemente-necesaria](https://www.lostiempos.com/actualidad/mundo/20210416/pfizer-preve-que-tercera-dosis-su-vacuna-sera-probablemente-necesaria))
+
+[tercera dosis]([https://cnnespanol.cnn.com/2021/04/15/es-probable-que-se-necesite-una-tercera-dosis-de-vacuna-contra-el-covid-19-en-un-plazo-de-6-a-12-meses-dice-el-director-ejecutivo-de-pfizer/](https://cnnespanol.cnn.com/2021/04/15/es-probable-que-se-necesite-una-tercera-dosis-de-vacuna-contra-el-covid-19-en-un-plazo-de-6-a-12-meses-dice-el-director-ejecutivo-de-pfizer/))
+
 []()
 []()
 []()

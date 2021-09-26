@@ -50,8 +50,12 @@
 
 [ Pablo Goldschmidt | Información Importante sobre los Tests de Covid-19](https://www.youtube.com/watch?v=VZ9UkobpWXU&ab_channel=RogerBiderbost)
 
-[]()
-[]()
+[España ha realizado más de 38,6 millones de pruebas diagnósticas desde el inicio de la epidemia](https://www.mscbs.gob.es/gabinete/notasPrensa.do?metodo=detalle&id=5303)
+
+[ EL MINISTERIO DE SANIDAD RECONOCE QUE LAS "PRUEBAS" NO SIRVEN](https://odysee.com/@HermanosBarea:9/el-ministerio-de-sanidad-reconoce-que:8?&sunset=lbrytv)
+Telegram: "#3 PCR (**(min. 0:09) –** Ministerio Sanidad español reconoce en su propia web oficial que los datos obtenidos en las pruebas PCR NO SON FIABLES.  
+#9 uso de mascarillas **(min.2:52)** – contradicciones sobre su conveniencia (he consultado esta web y parece que ya han cambiado el texto)"
+
 []()
 []()
 []()

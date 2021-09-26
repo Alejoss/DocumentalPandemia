@@ -53,7 +53,8 @@ Telegram:"**#1**. #2. #3. #6 #7 #9**
 
 [ Southampton hotspot will require vaccine card for entry](https://pagesix.com/2021/04/26/buddha-lounge-in-southampton-to-require-vaccine-card-for-entry/?utm_source=NYPMetroTwitter&utm_medium=SocialFlow&utm_campaign=SocialFlow)
 
-[]()
+[ Third COVID Wave Will Kill Or Hospitalize 60 To 70% People Who Took Both The Vaccine Doses Says Official UK Govt Model](https://greatgameindia.com/third-wave-two-vaccines-deaths/)
+
 []()
 []()
 []()

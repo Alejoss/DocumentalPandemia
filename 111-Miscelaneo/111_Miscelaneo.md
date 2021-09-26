@@ -71,9 +71,11 @@ Telegram: minuto 8
 [# Un disidente de la pandemia: Fernando Andacht y su crítica a la "panmedicalización"](https://www.youtube.com/watch?v=06zYu4jHJzU&ab_channel=EnPerspectiva)
 
 [OMS pide más estudios y datos sobre el origen del SARS-CoV-2 y reitera que todas las hipótesis siguen abiertas]([https://www.who.int/es/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open](https://www.who.int/es/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open))
-[]()
-[]()
-[]()
+
+
+[Politicas para combatir la pandemia](https://publications.iadb.org/publications/spanish/document/Informe_macroecon%C3%B3mico_de_Am%C3%A9rica_Latina_y_el_Caribe_2020_Pol%C3%ADticas_para_combatir_la_pandemia.pdf)
+
+[Reflexión filosófica del contagio, minuto: 5.56 contagio aéreo]([https://www.youtube.com/watch?v=ZH9WrkxYNgk&t=90s](https://www.youtube.com/watch?v=ZH9WrkxYNgk&t=90s))
 []()
 []()
 []()

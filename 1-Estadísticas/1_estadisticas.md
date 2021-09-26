@@ -104,6 +104,48 @@
 [Casos y muertes por COVID-19 reportados por países y territorios de las Américas]([https://who.maps.arcgis.com/apps/webappviewer/index.html?id=2203b04c3a5f486685a15482a0d97a87&extent=-17277700.8881%2C-1043174.5225%2C-1770156.5897%2C6979655.9663%2C102100](https://who.maps.arcgis.com/apps/webappviewer/index.html?id=2203b04c3a5f486685a15482a0d97a87&extent=-17277700.8881%2C-1043174.5225%2C-1770156.5897%2C6979655.9663%2C102100))
 
 [Situación por región, país, territorio y área]([https://covid19.who.int/table](https://covid19.who.int/table))
+
+[ El estudio científico que da la razón a Ayuso: cerrar ciudades densamente pobladas propaga el Covid](https://okdiario.com/espana/estudio-cientifico-que-da-razon-ayuso-cerrar-ciudades-densidad-poblacion-propaga-covid-7023845/amp)
+
+[Varias Noticias](https://www.youtube.com/watch?v=2Dtv0onxYmU&ab_channel=TruthBeTold)
+Telegram:"#1 **(0:10)** protocolos de contabilización (la diferencia entre “con” y “por” Covid, con influencia directa en las cifras aportadas)  
+#1 **(1:12)** políticos españoles pillados antes de rueda de prensa (conversación previa orientada a poder justificar los números)  
+#1 **(min.2:05)** datos inflados por organismos oficiales de distintos países  
+sanitarios/hospitales en todo el mundo **(“Todo es Covid”)  
+**  
+#1 #6 #3 **(min. 8:54)** sanitario español sorprende en directo a periodista hablando muy claro, contradiciendo sus cifras y cuestionando las vacunas.  
+  
+#3 PCR **(min. 14:25)** – falsos positivos, inconsistencia de los test en todo el mundo (declaraciones de dras. Españolas)"
+
+[Preocupa el incremento de muertes por afecciones del corazón a causa del COVID-19](https://www.infobae.com/america/tendencias-america/2021/04/21/preocupa-el-incremento-de-muertes-por-afecciones-del-corazon-a-causa-del-covid-19/)
+
+[ 228 millones de personas en riesgo por el retraso en la vacunación contra el sarampión y otras enfermedades debido al COVID-19](https://news.un.org/es/story/2021/04/1491342)
+
+[Estadisticas Covid, centro estatal vigilancia epidemiologia y control de enfermedades](https://salud.edomex.gob.mx/cevece/estadisticas_covid19)
+
+[Datos Abiertos](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico)
+
+[Impacto en países cono Sur : Argentina, Brasil, Chile, Paraguay, Uruguay]([https://publications.iadb.org/publications/spanish/document/El_impacto_del_COVID-19_en_las_econom%C3%ADas_de_la_regi%C3%B3n_Cono_Sur.pdf](https://publications.iadb.org/publications/spanish/document/El_impacto_del_COVID-19_en_las_econom%C3%ADas_de_la_regi%C3%B3n_Cono_Sur.pdf))
+
+[Tasa de letalidad por infección Estudio de John P A Ioannidis publicada en web OMS](https://www.who.int/bulletin/volumes/99/1/20-265892-ab/es/))
+telegram:"Las tasas de letalidad por infección que se calculan tienden a ser mucho más bajas que las estimaciones realizadas a principios de la pandemia” 
+
+[Gráficos actualizados a diario por la web de RTVE con cifras de casos, fallecidos, y países, a partir de fuentes de organismos oficiales.]([https://www.rtve.es/noticias/coronavirus-graficos-mapas-datos-covid-19-espana-mundo/](https://www.rtve.es/noticias/coronavirus-graficos-mapas-datos-covid-19-espana-mundo/))
+
+[Datos aportados por Datadista (investigación independiente)  
+Evolución fallecidos España de mz 2020 a abril 2021.
+(caída del 68%)]([https://www.datadista.com/coronavirus/2-600-personas-fallecieron-en-marzo-por-covid-19/](https://www.datadista.com/coronavirus/2-600-personas-fallecieron-en-marzo-por-covid-19/))
+
+[Incongruencia en estadísticas en México, 441,000 muertos extra respecto a lo esperado .]([https://www.youtube.com/watch?v=nRUczuuuGkw](https://www.youtube.com/watch?v=nRUczuuuGkw))
+
+[contagios y muertes. United States COVID-19 Cases and Deaths by Stat]([https://covid.cdc.gov/covid-data-tracker/#cases_casesper100klast7days](https://covid.cdc.gov/covid-data-tracker/#cases_casesper100klast7days))
+
+[contagios y muertes. Cambios en porcentaje globale]([https://covid.cdc.gov/covid-data-tracker/#global-percent-change](https://covid.cdc.gov/covid-data-tracker/#global-percent-change))
+
+[Datos sobre COVID-19 durante el embarazo: gravedad de la enfermedad materna]([https://covid.cdc.gov/covid-data-tracker/#pregnant-population](https://covid.cdc.gov/covid-data-tracker/#pregnant-population))
+
+[]()
+[]()
 []()
 []()
 []()
