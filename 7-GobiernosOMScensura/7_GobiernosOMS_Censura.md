@@ -1,4 +1,3 @@
-
 Las licorerías quedaron abiertas. 
 
 [LEOPOLD NIH FOIA Anthony Fauci Emails](https://www.documentcloud.org/documents/20793561-leopold-nih-foia-anthony-fauci-emails)
@@ -36,6 +35,20 @@ Y ahora toca esperar... A que mañana Juan no aparezca muerto de "casualidad" po
 [Coronavirus Is the Perfect Disaster for ‘Disaster Capitalism’](https://www.vice.com/en/article/5dmqyk/naomi-klein-interview-on-coronavirus-and-disaster-capitalism-shock-doctrine)
 
 [mexico la segunda peor estrategia contra covid]([https://www.eluniversal.com.mx/ciencia-y-salud/mexico-la-segunda-peor-estrategia-contra-el-covid-19](https://www.eluniversal.com.mx/ciencia-y-salud/mexico-la-segunda-peor-estrategia-contra-el-covid-19))
+
+[Casi la mitad de los educandos del mundo siguen afectados por el cierre parcial o total de las escuelas, y más de otros 100 millones de niños no alcanzarán el nivel mínimo en lectura](https://es.unesco.org/covid19/educationresponse))
+
+[Mortalidad covid enfermedades pandemias](https://www.primicias.ec/noticias/sociedad/mortalidad-covid-enfermedades-pandemias/)
+
+ [Reacción gubernamental. Desde Brasil hasta Filipinas, gobiernos herméticos de todo el mundo están respondiendo a la pandemia de COVID-19 encubriendo datos](https://www.scidev.net/america-latina/scidev-net-reportaje/covid-19-lies-and-statistics-corruption-and-the-pandemic/)
+ 
+[uk behind the curve in deaths]((https://www.theguardian.com/world/2020/may/04/uk-behind-the-curve-in-curbing-covid-19-deaths))
+
+[corona virus excess deaths tracker](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
+
+[]()
+[]()
+[]()
 []()
 []()
 []()

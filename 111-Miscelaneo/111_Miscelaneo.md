@@ -76,9 +76,14 @@ Telegram: minuto 8
 [Politicas para combatir la pandemia](https://publications.iadb.org/publications/spanish/document/Informe_macroecon%C3%B3mico_de_Am%C3%A9rica_Latina_y_el_Caribe_2020_Pol%C3%ADticas_para_combatir_la_pandemia.pdf)
 
 [Reflexión filosófica del contagio, minuto: 5.56 contagio aéreo]([https://www.youtube.com/watch?v=ZH9WrkxYNgk&t=90s](https://www.youtube.com/watch?v=ZH9WrkxYNgk&t=90s))
-[]()
-[]()
-[]()
+
+[Seguimiento global de cierre de escuelas 174,240,920 estudiantes afectados  
+10% del total de alumnos matriculados  
+27 cierres a nivel nacional]([https://es.unesco.org/covid19/educationresponse](https://es.unesco.org/covid19/educationresponse))
+
+[Cómo está afectando la pandemia de COVID-19 a los docentes con contratos temporales en África Subsahariana]([https://teachertaskforce.org/es/blog/como-esta-afectando-la-pandemia-de-covid-19-los-docentes-con-contratos-temporales-en-africa](https://teachertaskforce.org/es/blog/como-esta-afectando-la-pandemia-de-covid-19-los-docentes-con-contratos-temporales-en-africa))
+
+[Coronavirus mirada filosófica: Slavoj Žižek minuto 4,30" si la segunda ola es peor, Slavoj no duda que se proclamaran totalitarismo]([https://www.youtube.com/watch?v=weB1rG9xM7k](https://www.youtube.com/watch?v=weB1rG9xM7k))
 []()
 []()
 []()

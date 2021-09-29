@@ -144,6 +144,70 @@ Evolución fallecidos España de mz 2020 a abril 2021.
 
 [Datos sobre COVID-19 durante el embarazo: gravedad de la enfermedad materna]([https://covid.cdc.gov/covid-data-tracker/#pregnant-population](https://covid.cdc.gov/covid-data-tracker/#pregnant-population))
 
+[Reacción gubernamental solo 17 países de diferentes regiones han incluido a los docentes en el primer grupo de personas que deben vacunarse]([https://es.unesco.org/news/donde-docentes-son-prioritarios-ser-vacunados-covid-19](https://es.unesco.org/news/donde-docentes-son-prioritarios-ser-vacunados-covid-19))
+
+[Al 25 de marzo, 165 países han cerrado sus escuelas debido al virus COVID-19, afectando así cerca de 1.5 billones de estudiantes y 63 millones de docentes tanto de primaria como de secundaria.]([https://teachertaskforce.org/sites/default/files/migrate_default_content_files/ttf_covid19_call%20to%20action_27mar2020_esp_1.pdf](https://teachertaskforce.org/sites/default/files/migrate_default_content_files/ttf_covid19_call%20to%20action_27mar2020_esp_1.pdf))
+
+[ Cuánta gente ha muerto realmente en España](https://www.youtube.com/watch?v=1NxR3Fat0lE&ab_channel=ElDebate)
+
+[ Países con Mayor Número de Casos y M. en el Mundo](https://www.youtube.com/watch?v=FqmrwJRhZek&ab_channel=laVidaenunGr%C3%A1fico)
+
+[ Número de muertes por país durante la PANDEMIA de Gripe Española | 1918 - 1920 | Grafico](https://www.youtube.com/watch?v=uhOJYSXMoZY&ab_channel=Telograf%C3%ADco%F0%9F%93%8A)
+
+[ El mapa que muestra dónde han fallecido las víctimas de covid-19](https://www.bbc.com/mundo/noticias-51705060)
+
+[ Informe COVID-19 en Andalucía](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/salud/COVID19.html)
+
+[como se construye el panico con los muertos](https://tierrapura.org/2021/04/28/covid-19-como-se-construye-el-panico-con-los-numeros/)
+
+[ Coronavirus: ¿está contando India todas las muertes?](https://www.dw.com/es/coronavirus-est%C3%A1-contando-india-todas-las-muertes/a-57353114)
+
+[Cifra de casos y muertes por covid-19 en India podría ser 30 veces mayor. 500 millones de casos.]((https://cnnespanol.cnn.com/2021/04/27/india-segunda-ola-covid-19-advierten-cifra-casos-muertes-30-veces-mayor-trax/))
+
+[Tabla de incremento de muertos en India con 1.366.417.754 de habitantes (segundo país del mundo en número de habitantes)]((https://datosmacro.expansion.com/otros/coronavirus/india))
+
+[Información actualizada hoy 11 am. Ha habido 18.376.524 contagios y 204.832 muertes relacionadas con el coronavirus en India desde que comenzó la pandemia.](https://graphics.reuters.com/world-coronavirus-tracker-and-maps/es/countries-and-territories/india/)
+
+[Dudas sobre la veracidad de las cifras en India ](https://www.elfinanciero.com.mx/mundo/2021/04/22/la-india-tiene-otro-problema-ya-no-sabe-la-cifra-real-de-sus-muertos-por-covid-19/)
+
+[Gráficos Wikipedia de avance de la pandemia en India ](https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_India)
+
+[El misterio de la baja mortalidad por COVID-19 a pesar de los 7 millones de contagios 19% del total de casos en el mundo. 1.5% de mortalidad. ](https://es.euronews.com/2020/10/11/india-alcanza-los-siete-millones-de-casos-de-coronavirus-pero-sin-superar-a-estados-unidos)
+
+[India: los gráficos e imágenes que muestran la dimensión de la tragedia causada por la covid-19 ](https://www.bbc.com/mundo/noticias-internacional-56915387)
+
+[rusia cambia metodo conteo muertos](https://www.abc.es/sociedad/abci-rusia-cambia-metodo-conteo-muertos-coronavirus-y-salen-mas-doble-202006141155_noticia.html)
+
+[como contabilizar la cifra real de victimas covid](https://www.nationalgeographic.es/ciencia/2020/05/como-contabilizar-la-cifra-real-de-victimas-de-la-covid-19/amp)
+
+[Casos de gripe: “12” casos hasta 4 abril](https://www.elmundo.es/ciencia-y-salud/salud/2021/04/09/607047bcfc6c83dd5b8b45c5.html)
+
+[coronavirus tracker sweden](https://graphics.reuters.com/world-coronavirus-tracker-and-maps/es/countries-and-territories/sweden/)
+
+[África el continente con menos casos de Covid-19, número de casos por día en gráfico.](https://www.bbc.com/mundo/noticias-internacional-54012501)
+
+[Mientras que Europa contabiliza más de 1,5 millones de casos confirmados, Estados Unidos supera los 1,3 millones y América Latina se acerca a los 250.000, el continente africano ha reportado alrededor de 55.000 contagios.](https://www.bbc.com/mundo/noticias-internacional-52575102)
+
+[Ha habido al menos 4.580.000 contagios documentados y 121.000 muertes documentadas a causa de nuevol coronavirus en África hasta la fecha. ](https://graphics.reuters.com/world-coronavirus-tracker-and-maps/es/regions/africa/)
+
+ [Evolución por país o territorio en África. En el período de seis meses comprendido entre octubre de 2020 y abril de 2021, los casos nuevamente se triplicaron.](https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_%C3%81frica)
+ 
+[ África acaba de superar recientemente la barrera de los 600.000 casos y los fallecidos por COVID-19 superan los 13.5001. Sin embargo, esto supone tan solo alrededor del 4,6% del total de casos mundiales y un 2,3% del total de las muertes, en un continente que representa el 17% de la población del planeta. ](https://www.analesdepediatria.org/es-covid-19-africa-sobreviviendo-entre-espada-articulo-S1695403320302575)
+
+[El coronavirus en África | El 84% de los pacientes en el continente se han recuperado Oct-2020 ](https://elpais.com/elpais/2020/09/28/planeta_futuro/1601280683_058412.html)
+
+[El confinamiento no está pensado para África Hasta la fecha, se han dado más de 2.000 muertes y casi 54.000 contagios en 54 países africanos](https://www.medicosdelmundo.org/actualidad-y-publicaciones/noticias/covid-19-y-en-africa-que)
+
+ [La pandemia de COVID-19 se agrava en África, que alcanza el millón de casos. Sudáfrica tiene la mitad de los casos en este continente, 538,134. 22,066 muertes, 1,007,366 casos y 690,436 curaciones tras detectar su primer contagio el 14 de febrero en Egipto](https://expansion.mx/mundo/2020/08/07/la-pandemia-de-covid-19-se-agrava-en-africa-que-alcanza-el-millon-de-casos)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 []()
 []()

@@ -55,7 +55,10 @@ Telegram:"**#1**. #2. #3. #6 #7 #9**
 
 [ Third COVID Wave Will Kill Or Hospitalize 60 To 70% People Who Took Both The Vaccine Doses Says Official UK Govt Model](https://greatgameindia.com/third-wave-two-vaccines-deaths/)
 
-[]()
+[Dr. Michael Leadon. Es una entrevista telefónica y está fechada el 7-4-2021. Utiliza el término “despoblación masiva”, y no es el primer profesional relacionado con medicina al que oigo hablar de algo así.](https://qstw6ei6t44lq2elgdb2zfztku-ac5fdsxevxq4s5y-www-lifesitenews-com.translate.goog/news/exclusive-former-pfizer-vp-your-government-is-lying-to-you-in-a-way-that-could-lead-to-your-death)
+
+[Corruption scandal in Brussels: have vaccine manufacturers bribed the EU commissioner? (Update # 3)](https://unser-mitteleuropa.com/korruptionsskandal-in-bruessel-haben-impfstoffhersteller-die-eu-kommissarin-bestochen/)
+
 []()
 []()
 []()

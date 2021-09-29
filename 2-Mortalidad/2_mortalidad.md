@@ -1,4 +1,3 @@
-
 [La distopía sin datos del COVID](https://www.youtube.com/watch?v=2-Vq0nNHycE&t=94s) min 11:25  Richard Sullivan sobre desatención en muertes por cáncer. Confirmar dato. 
 
 [La distopía sin datos del COVID](https://www.youtube.com/watch?v=2-Vq0nNHycE&t=94s) min 13:00 Unicef predice 1.2 millones de muertes infantiles. Confirmar dato.
@@ -82,8 +81,16 @@
 [gripe, los otros miles de muertos que pueden evitar]([https://www.elindependiente.com/vida-sana/salud/2021/01/02/sin-noticias-de-la-gripe-los-otros-miles-de-muertos-que-las-mascarillas-pueden-evitar/](https://www.elindependiente.com/vida-sana/salud/2021/01/02/sin-noticias-de-la-gripe-los-otros-miles-de-muertos-que-las-mascarillas-pueden-evitar/))
 
 [gripe mata mas de 10 veces que lo que figura en las cifras oficiales]([https://www.elindependiente.com/vida-sana/salud/2019/10/17/la-gripe-mata-hasta-10-veces-mas-de-lo-que-figura-en-las-cifras-oficiales/](https://www.elindependiente.com/vida-sana/salud/2019/10/17/la-gripe-mata-hasta-10-veces-mas-de-lo-que-figura-en-las-cifras-oficiales/))
-[]()
-[]()
+
+[NYTimes actualizado el 9-2-2021.  
+Cómo se compara el exceso de muertes con las muertes por Covid-19 reportadas en 2020 (9-2-2021)](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
+
+[ Estadisticas EEUU publicadas por NYTimes - actualizadas 28 abril 2021](https://www.nytimes.com/interactive/2021/us/college-covid-tracker.html?smtyp=cur&smid=tw-nytimes)
+
+[Suecia tuvo una tasa de mortalidad inferior a la de la mayor parte de Europa en 2020, a pesar de que no hubo confinamientos](https://www.evernote.com/shard/s481/client/snv?noteGuid=7e49f6b5-1fdd-9ba7-9499-9532700e2a5f&noteKey=45625feb21b2b4103ebae8670568c93e&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs481%2Fsh%2F7e49f6b5-1fdd-9ba7-9499-9532700e2a5f%2F45625feb21b2b4103ebae8670568c93e&title=Suecia%2Btuvo%2Buna%2Btasa%2Bde%2Bmortalidad%2Binferior%2Ba%2Bla%2Bde%2Bla%2Bmayor%2Bparte%2Bde%2BEuropa%2Ben%2B2020%252C%2Ba%2Bpesar%2Bde%2Bque%2Bno%2Bhubo%2Bconfinamientos)
+
+[ ¿Por qué África tiene menos muertes de COVID-19 que otros continentes? ](https://theconversation.com/por-que-africa-tiene-menos-muertes-de-covid-19-que-otros-continentes-147809)
+
 []()
 []()
 []()

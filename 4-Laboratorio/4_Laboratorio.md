@@ -49,9 +49,11 @@
 
 [tercera dosis]([https://cnnespanol.cnn.com/2021/04/15/es-probable-que-se-necesite-una-tercera-dosis-de-vacuna-contra-el-covid-19-en-un-plazo-de-6-a-12-meses-dice-el-director-ejecutivo-de-pfizer/](https://cnnespanol.cnn.com/2021/04/15/es-probable-que-se-necesite-una-tercera-dosis-de-vacuna-contra-el-covid-19-en-un-plazo-de-6-a-12-meses-dice-el-director-ejecutivo-de-pfizer/))
 
-[]()
-[]()
-[]()
+[Denuncia Enfermera]([https://tierrapura.org/2021/04/27/los-grabe-asesinando-pacientes-grave-denuncia-de-enfermera-covid/](https://tierrapura.org/2021/04/27/los-grabe-asesinando-pacientes-grave-denuncia-de-enfermera-covid/))
+
+[Ex jefe científico de Pfizer: TU GOBIERNO TE MIENTE!](https://odysee.com/@ElCanalDeQQ:e/ex-jefe-cient%C3%ADfico-de-Pfizer:9)
+
+[Ines Sainz promotora de las vacunas experimentales]([http://euskalnews.com/2021/04/ines-sainz-desvela-en-el-programa-de-colin-rivas-que-le-ofrecieron-ser-una-promotora-de-las-vacunas-experimentales/](http://euskalnews.com/2021/04/ines-sainz-desvela-en-el-programa-de-colin-rivas-que-le-ofrecieron-ser-una-promotora-de-las-vacunas-experimentales/))
 []()
 []()
 []()
