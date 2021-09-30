@@ -44,7 +44,7 @@ Y ahora toca esperar... A que mañana Juan no aparezca muerto de "casualidad" po
  
 [uk behind the curve in deaths]((https://www.theguardian.com/world/2020/may/04/uk-behind-the-curve-in-curbing-covid-19-deaths))
 
-[corona virus excess deaths tracker](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
+[alemania caza de brujas de negacionistas](http://euskalnews.com/2021/05/comienza-la-caza-de-brujas-la-inteligencia-alemana-pone-bajo-vigilancia-a-los-negacionistas-del-coronavirus/)
 
 []()
 []()

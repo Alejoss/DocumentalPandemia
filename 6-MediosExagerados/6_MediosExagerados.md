@@ -20,6 +20,9 @@ Con extractos en vídeo de los discursos de Trump, Sanchez, Boris Johnson al ini
 [Dr. en Filosofia y Semiotico Fernando Andach, La Red Global mediatica en tiempos de pandemia.]( https://odysee.com/@Dreambox:9/Fernando-Andach-Extramuros:6)
 
 [Neolengua e Ingeniería lingüística en el discurso público (y cómo recuperar nuestro poder), por Carme Huertas:](https://www.youtube.com/watch?v=LpWRpeUc8Ys)
+  
+[Referencias al origen y financiación de los fact checker ] (https://www.theblaze.com/op-ed/horowitz-facebooks-independent-fact-checker-on-vaccines-is-funded-by--you-guessed-it)
+
 []()
 []()
 []()

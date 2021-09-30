@@ -84,6 +84,16 @@ Telegram: minuto 8
 [Cómo está afectando la pandemia de COVID-19 a los docentes con contratos temporales en África Subsahariana]([https://teachertaskforce.org/es/blog/como-esta-afectando-la-pandemia-de-covid-19-los-docentes-con-contratos-temporales-en-africa](https://teachertaskforce.org/es/blog/como-esta-afectando-la-pandemia-de-covid-19-los-docentes-con-contratos-temporales-en-africa))
 
 [Coronavirus mirada filosófica: Slavoj Žižek minuto 4,30" si la segunda ola es peor, Slavoj no duda que se proclamaran totalitarismo]([https://www.youtube.com/watch?v=weB1rG9xM7k](https://www.youtube.com/watch?v=weB1rG9xM7k))
+
+[La brecha en la vacunación contra el COVID-19 entre los países ricos y pobres “se vuelve más grotesca cada día” ](https://news.un.org/es/story/2021/03/1489862)
+
+[El extraño caso de la inmunidad de las comunidades Amish.  ](https://www.usatoday.com/story/news/factcheck/2021/02/10/fact-check-false-claim-amish-dont-get-covid-19/4455551001/)
+
+ 
+[Medidas de represión en Ontario ](https://www.americanthinker.com/blog/2021/04/canadas_ontario_goes_for_a_police_state_in_the_name_of_covid_suppression_.html)
+
+[nuevo orden mundial dinero y alimentos](http://m.elgranaviso-mensajes.com/news/a17-abr-2011/?utm_source=copy&utm_medium=paste&utm_campaign=copypaste&utm_content=http%3A%2F%2Fm.elgranaviso-mensajes.com%2Fnews%2Fa17-abr-2011%2F)
+
 []()
 []()
 []()

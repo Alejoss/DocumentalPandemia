@@ -199,6 +199,29 @@ Evolución fallecidos España de mz 2020 a abril 2021.
 [El confinamiento no está pensado para África Hasta la fecha, se han dado más de 2.000 muertes y casi 54.000 contagios en 54 países africanos](https://www.medicosdelmundo.org/actualidad-y-publicaciones/noticias/covid-19-y-en-africa-que)
 
  [La pandemia de COVID-19 se agrava en África, que alcanza el millón de casos. Sudáfrica tiene la mitad de los casos en este continente, 538,134. 22,066 muertes, 1,007,366 casos y 690,436 curaciones tras detectar su primer contagio el 14 de febrero en Egipto](https://expansion.mx/mundo/2020/08/07/la-pandemia-de-covid-19-se-agrava-en-africa-que-alcanza-el-millon-de-casos)
+ 
+ [Desde principios de 2021 los países de renta alta han administrado, en promedio, una dosis de vacuna por segundo. Esta cifra se basa en el promedio diario de dosis de la vacuna contra la COVID-19 administradas entre el 1 de enero y el 2 de marzo de 2021. ](https://www.unaids.org/es/resources/presscentre/featurestories/2021/march/20210310_covid19-vaccines)
+ 
+ [ La propia OMS ha señalado que el 75% de las vacunas distribuidas y suministradas hasta el momento, han estado concentradas en 10 países ricos del Planeta](https://www.larepublica.net/noticia/paises-ricos-paises-pobres-y-la-vacuna-contra-el-covid)
+ 
+[ Casi la mitad de los más de 200 millones de vacunas ya administradas en el mundo, se aplicaron en los siete países más ricos, donde solo vive el 10% de la población del planeta. ](https://www.dw.com/es/vacunaci%C3%B3n-contra-covid-19-es-desigual-en-pa%C3%ADses-pobres-y-ricos/a-56638883)
+ 
+[ Más de 78 por ciento de los más de 700 millones de dosis de vacunas de coronavirus en todo el mundo se han aplicado en países ricos. ](https://www.elfinanciero.com.mx/mundo/2021/04/09/un-desequilibrio-escandaloso-casi-4-de-cada-5-vacunas-han-ido-a-parar-a-paises-ricos-dice-la-oms/)
+
+[Mientras que el 87% de los vacunados son de países ricos, en los menos desarrollados apenas se ha llegado al 0,2% de la población ](https://elpais.com/planeta-futuro/2021-04-10/el-escandaloso-desequilibrio-en-la-distribucion-de-vacunas-contra-la-covid-19-para-ricos-y-pobres.html)
+
+[Sólo un 0.1% de las dosis administradas en el mundo fueron en países de "renta baja", mientras que los países de "renta alta" (16% de la población mundial) concentran más de la mitad de las dosis inyectadas.](https://www.eleconomista.com.mx/arteseideas/OMS-alerta-sobre-grotesca-desigualdad-en-el-acceso-a-vacunas-Covid-19-entre-paises-ricos-y-pobres-20210322-0054.html)
+
+ [Estados Unidos, la Unión Europea, Reino Unido, Australia, Canadá y Japón han conseguido más de 3 mil millones de vacunas, una cifra que supera en mil millones de dosis las 2 mil 060 millones necesarias para administrar dos dosis a toda su población.](https://aristeguinoticias.com/1902/mundo/paises-ricos-han-almacenado-mil-millones-de-vacunas-anti-covid-mas-de-las-que-necesitan/)
+ 
+[ Desigualdad global. Solo una de cada 500 personas en los países pobres ha sido vacunada contra el covid. ](https://www.elperiodico.com/es/internacional/20210419/500-personas-paises-pobres-sido-11667423)  
+  
+[India estadísticas de casos 30-4-2021 / por Statista](https://www.statista.com/statistics/1087466/covid19-cases-recoveries-deaths-worldwide/) 
+  
+[ Referencia al estudio tasa de letalidad (=0,15%) del profesor John P.A Ioannidis. ](https://www.lifesitenews.com/news/new-study-puts-covid-infection-fatality-rate-at-only-0.15-percent)
+
+[a fiasco im the making without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/)
+
 []()
 []()
 []()

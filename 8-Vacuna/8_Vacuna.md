@@ -1,4 +1,3 @@
-
 Imagen SANITARIOS ESPANA decia en el mensaje: 
 "**TODO SANITARIO RECIBE UN DINERO ADICIONAL POR DESGRACIADO QUE VA A INYECTARSE PÓCIMAS  
   A mayor número de españoles engañados para inyectarse pócimas, mayor caja hacen los sanitarios españoles."
@@ -58,6 +57,19 @@ Telegram:"**#1**. #2. #3. #6 #7 #9**
 [Dr. Michael Leadon. Es una entrevista telefónica y está fechada el 7-4-2021. Utiliza el término “despoblación masiva”, y no es el primer profesional relacionado con medicina al que oigo hablar de algo así.](https://qstw6ei6t44lq2elgdb2zfztku-ac5fdsxevxq4s5y-www-lifesitenews-com.translate.goog/news/exclusive-former-pfizer-vp-your-government-is-lying-to-you-in-a-way-that-could-lead-to-your-death)
 
 [Corruption scandal in Brussels: have vaccine manufacturers bribed the EU commissioner? (Update # 3)](https://unser-mitteleuropa.com/korruptionsskandal-in-bruessel-haben-impfstoffhersteller-die-eu-kommissarin-bestochen/)
+
+[Estadísticas vacunados por países África a 28-4-2021 / por Statista  ](https://www.statista.com/statistics/1221298/covid-19-vaccination-rate-in-african-countries/)
+
+[Vacunas y fondos de inversión](https://www.dsalud.com/reportaje/dos-fondos-de-inversion-controlan-la-fabricacion-e-informacion-sobre-las-vacunas-para-la-covid-19/) 
+  
+[https://www.lifesitenews.com/news/french-drug-assessment-center-demands-removal-of-all-four-widely-used-covid-vaccines](https://www.lifesitenews.com/news/french-drug-assessment-center-demands-removal-of-all-four-widely-used-covid-vaccines)
+
+[### Vaccines against Covid-19: uncertainties even about the intrinsic quality of products, their manufacturing processes, the batches marketed ... according to official documents published by the European Medicines Agency (EMA)](https://ctiapchcholet.blogspot.com/2021/04/inedit-exclusif-vaccins-contre-la-covid.html)
+  
+[Israel: informe independiente del Comité del Pueblo de Israel (IPC), organismo civil formado por expertos en salud, sobre efectos adversos vacuna Pfizer.  
+“Nunca ha habido una vacuna que haya dañado a tantas personas”  ](https://gilad.online/writings/2021/4/21/the-israeli-people-committees-april-report-on-the-lethal-impact-of-vaccinations)
+ 
+[Gente en EEUU rechazando la 2ª dosis](https://www.nytimes.com/2021/04/25/business/covid-vaccines-second-doses.html)
 
 []()
 []()

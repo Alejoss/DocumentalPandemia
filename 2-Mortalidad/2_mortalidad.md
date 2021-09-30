@@ -91,6 +91,14 @@ Cómo se compara el exceso de muertes con las muertes por Covid-19 reportadas en
 
 [ ¿Por qué África tiene menos muertes de COVID-19 que otros continentes? ](https://theconversation.com/por-que-africa-tiene-menos-muertes-de-covid-19-que-otros-continentes-147809)
 
+[corona virus excess deaths tracker](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
+
+[Casos diarios en África. 4 % de todos los fallecimientos a nivel mundial ](https://www.rtve.es/noticias/20210211/segunda-ola-pandemia-africa-nuevas-variantes-virus-vacunas/2074465.shtml)
+
+ [El continente americano suma actualmente 46 millones de casos positivos y 1 millón de muertos a causa del coronavirus.](https://www.infobae.com/salud/2021/02/11/paises-ricos-vs-pobres-el-dilema-de-la-distribucion-de-las-vacunas-para-el-covid-19/)
+
+[A pandemic primer on excess mortality statistics and their comparability across countries](https://ourworldindata.org/covid-excess-mortality)
+
 []()
 []()
 []()
