@@ -1,36 +1,29 @@
 {
   "main": {
-    "id": "6c30aa0c39441731",
+    "id": "80bff6f77311ff13",
     "type": "split",
     "children": [
       {
-        "id": "2ed1901dd4e5c260",
+        "id": "221c66f956c03d33",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< Updated upstream
-            "file": "21 - Uso del PCR como estándar.md",
-=======
-            "file": "13 - Exceso de muertes sin coherencia estadística.md",
->>>>>>> Stashed changes
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8c8fee9841d58c95",
+    "id": "ee100633e3182be2",
     "type": "split",
     "children": [
       {
-        "id": "b2406a336f0ef52a",
+        "id": "0e4ac897e36c8d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "a10c951df833d3a5",
+            "id": "cd426b0a322d0071",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,7 +31,7 @@
             }
           },
           {
-            "id": "a2e10a45fdbfc9f9",
+            "id": "b8514d9e40ee592a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,31 +49,22 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 387
-=======
-    "width": 624
->>>>>>> Stashed changes
+    "width": 300
   },
   "right": {
-    "id": "41079a3d399874a6",
+    "id": "91dbba23c6970539",
     "type": "split",
     "children": [
       {
-        "id": "d5a0fbba2766b4c1",
+        "id": "543cc59869f37624",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ad06f4bd34bf97",
+            "id": "a442a963b7decbeb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "21 - Uso del PCR como estándar.md",
-=======
-                "file": "13 - Exceso de muertes sin coherencia estadística.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,66 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ed1901dd4e5c260",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-    "03 - Indice oficial de muertos.md",
-<<<<<<< HEAD
-    "27.1 Christian Drosten.md",
-    "25.1 - Si creo crear una cuarta ola la creo.md",
-    "26 - OMS admitió que se generan falsos positivos.md",
-    "25 - A más pruebas más contagios.md",
-    "24 - La prueba es subsidiada.md",
-    "23 - Cómo funciona la PCR.md",
-    "21 - Uso del PCR como estándar.md",
-    "20 - Protocolos erróneos.md",
-    "19 - Gobiernos recomendaron no hacer autopsias.md"
-=======
->>>>>>> main
-    "08 - Dr John Ionadis.md",
-    "11 - Mortalidad incoherente..md",
-    "12 - La mayoría de muertos son mayores.md",
-    "13 - Exceso de muertes sin coherencia estadística.md",
-    "14 - Comparación otras causas de muerte.md",
-    "10 - Costo del tratamiento.md",
-    "09 - Incentivo económico por casos covid..md",
-=======
-    "21 - Uso del PCR como estándar.md",
-    "25 - A más pruebas más contagios.md",
->>>>>>> Stashed changes
-    "24 - La prueba es subsidiada.md",
-    "23 - Cómo funciona la PCR.md",
-    "22 - Kary Mullis no recomienda el uso del PCR.md",
-    "20 - Protocolos erróneos.md",
-    "18 - Predicción exagerada y polémica..md",
-    "19 - Gobiernos recomendaron no hacer autopsias.md",
-    "06 - Casos Probables.md",
-<<<<<<< Updated upstream
-    "26 - OMS admitió que se generan falsos positivos.md",
-    "01 Intro.md"
->>>>>>> Stashed changes
-=======
-    "23 - Cómo funciona la PCR.md"
->>>>>>> main
->>>>>>> main
-=======
-    "05 - Dr Genevive Briand.md"
->>>>>>> Stashed changes
-=======
-    "13 - Exceso de muertes sin coherencia estadística.md",
-    "08 - Dr John Ionadis.md",
-    "06 - Casos Probables.md",
-    "05 - Dr Genevive Briand.md",
-    "03 - Indice oficial de muertos.md",
-    "02 - tasa oficial de mortalidad.md",
-    "04 - impresión monetaria.md",
-    "09 - Incentivo económico por casos covid..md",
-    "12 - La mayoría de muertos son mayores.md",
-    "11 - Mortalidad incoherente..md"
->>>>>>> Stashed changes
-  ]
+  "active": "221c66f956c03d33",
+  "lastOpenFiles": []
 }
