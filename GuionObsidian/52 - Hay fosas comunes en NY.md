@@ -1,0 +1,1 @@
+Durante el 2020, los medios jugaron un rol crucial en la labor de inyectar miedo a la población. Un gran ejemplo son las "fosas comunes" que reportaron en Nueva York. Se les olvidó mencionar un pequeño detalle: siempre han existido fosas comunes en NY. 
