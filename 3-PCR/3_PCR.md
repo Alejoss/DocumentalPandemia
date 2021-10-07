@@ -170,6 +170,15 @@ Telegram: "#3 PCR (**(min. 0:09) –** Ministerio Sanidad español reconoce en s
 
 [CORONAGATE ](https://www.bitchute.com/video/zQfajE3p5kqJ/)
 
+[pcr testing scam scandemic]](https://www.winterwatch.net/2020/11/wildly-inaccurate-pcr-testing-puts-the-scam-in-the-covid-19-scamdemic/)
+
+[wake up america covid is fake as shit damn](https://rightsfreedoms.wordpress.com/2021/02/15/im-a-clinical-lab-scientist-covid-19-is-fake-wake-up-america/)
+
+[lockdowns are based on fraud](https://www.manilatimes.net/2020/12/05/opinion/columnists/topanalysis/lockdowns-are-based-on-fraud-cancellation-of-christmas/805063/)
+
+[basurero de pruebas rapidas china](https://lanetaneta.com/latinoamerica-un-basurero-de-pruebas-rapidas-chinas-anticovid/)
+
+
 []()
 []()
 []()

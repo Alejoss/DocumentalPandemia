@@ -103,6 +103,23 @@ Cómo se compara el exceso de muertes con las muertes por Covid-19 reportadas en
 
 [En los últimos 80 días, una tercera parte de las muertes por Covid-19](https://www.eleconomista.com.mx/politica/En-los-ultimos-80-dias-una-tercera-parte-de-las-muertes-por-Covid-19-20210126-0177.html) 
 
+[Mortalidad en los más pobres México] (https://www.instagram.com/p/COgP-9whcgF/) 
+
+ [Análisis de exceso de mortalidad. Las tasas de mortalidad e infección son significativamente más bajas en países APOC en comparación con los países NO](colombiamedica.univalle.edu.co/index.php/comedica/article/view/4613/4860)
+
+[PAÍSES QUE SUPERAN AL COVID-19 ](https://www.endcoronavirus.org/countries)
+
+[América registra tasas más altas de mortalidad por el impacto de la pandemia en los servicios esenciales, 30 por ciento de las personas que viven con el VIH están evitando buscar atención ](https://coronavirus.onu.org.mx/america-registra-tasas-mas-altas-de-mortalidad-por-el-impacto-de-la-pandemia-en-los-servicios-esenciales)
+
+
+[Edad y mortalidad por COVID-19. Metaanálisis de 611.583 pacientes ](https://secardiologia.es/blog/11769-edad-y-mortalidad-por-covid-19-metaanalisis-de-611-583-pacientes)
+
+ 
+[Exceso de mortalidad por todas las causas,  
+durante la emergencia por COVID-19, México, 2020 – 2021 ](https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/)
+
+[Segunda causa de muerte 2020, seg42](https://www.youtube.com/watch?v=b2DW9nGjDE4)
+
 []()
 []()
 []()

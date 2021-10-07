@@ -97,6 +97,9 @@ Telegram: minuto 8
  [¿Qué representa que el covid-19 sea una enfermedad vascular y no respiratoria?](https://www.eluniversal.com.mx/ciencia-y-salud/riesgos-de-que-covid-19-sea-una-enfermedad-vascular-y-no-respiratoria)
 
 [La voz en tiempos de pandemia.](https://www.youtube.com/watch?v=9-5safuLFWU)
+
+[pandemias psiquicas min 23](https://www.youtube.com/watch?v=IUht8-YMQuw)
+
 []()
 []()
 []()

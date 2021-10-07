@@ -227,6 +227,8 @@ Evolución fallecidos España de mz 2020 a abril 2021.
 
 
 [EL BANCO MUNDIAL CONSIDERA COVID-19 un proyecto en desarrollo desde el 31 de marzo de 2020 hasta el 31 de marzo de 2025](https://telegra.ph/EL-BANCO-MUNDIAL-CONSIDERA-COVID-19-un-proyecto-en-desarrollo-desde-el-31-de-marzo-de-2020-hasta-el-31-de-marzo-de-2025-01-05)
+ 
+[ESTUDIO INCIDENCIA VACUNA/OCUPACIÓN_UCI'S. Jon Ander Etxebarria Garate. Biologosporlaverdad . es](https://biologosporlaverdad.es/vacunasiaucis.pdf)
 
 []()
 []()

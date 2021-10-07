@@ -84,6 +84,8 @@ Telegram:"**#1**. #2. #3. #6 #7 #9**
 [MAS SOBRE VACUNAS, BARTOMEU PAYERAS I CIFRE  ](https://superocho.org/watch/lMXvuWYDLtRGPqy?lang=spanish)
 
 [Hoja informativa de la FDA sobre pfizer-Biotech documento en español: ](https://superocho.org/watch/XRkL15eAuGvzu7F)
+ 
+[ESTUDIO INCIDENCIA VACUNA/OCUPACIÓN_UCI'S. Jon Ander Etxebarria Garate. Biologosporlaverdad . es](https://biologosporlaverdad.es/vacunasiaucis.pdf)
 []()
 []()
 []()
