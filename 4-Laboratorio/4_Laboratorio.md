@@ -54,6 +54,9 @@
 [Ex jefe científico de Pfizer: TU GOBIERNO TE MIENTE!](https://odysee.com/@ElCanalDeQQ:e/ex-jefe-cient%C3%ADfico-de-Pfizer:9)
 
 [Ines Sainz promotora de las vacunas experimentales]([http://euskalnews.com/2021/04/ines-sainz-desvela-en-el-programa-de-colin-rivas-que-le-ofrecieron-ser-una-promotora-de-las-vacunas-experimentales/](http://euskalnews.com/2021/04/ines-sainz-desvela-en-el-programa-de-colin-rivas-que-le-ofrecieron-ser-una-promotora-de-las-vacunas-experimentales/))
+
+[sistema inmunologico curso biologia](https://telegra.ph/Qu%C3%A9-es-el-sistema-inmunol%C3%B3gico-natural-y-la-inmunidad-adaptativa-Curso-de-biolog%C3%ADa-de-Yves-Muller---Profesor-de-Biologia-01-25)
+
 []()
 []()
 []()

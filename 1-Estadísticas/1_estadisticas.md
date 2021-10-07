@@ -222,6 +222,12 @@ Evolución fallecidos España de mz 2020 a abril 2021.
 
 [a fiasco im the making without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/)
 
+
+[Bartomeu Payeras. Asistencia sanitaria, vacunas y Covid-19  ](https://www.bitchute.com/video/WIPxzwK1wMNT/)
+
+
+[EL BANCO MUNDIAL CONSIDERA COVID-19 un proyecto en desarrollo desde el 31 de marzo de 2020 hasta el 31 de marzo de 2025](https://telegra.ph/EL-BANCO-MUNDIAL-CONSIDERA-COVID-19-un-proyecto-en-desarrollo-desde-el-31-de-marzo-de-2020-hasta-el-31-de-marzo-de-2025-01-05)
+
 []()
 []()
 []()

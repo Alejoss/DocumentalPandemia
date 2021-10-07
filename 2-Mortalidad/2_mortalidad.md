@@ -99,6 +99,10 @@ Cómo se compara el exceso de muertes con las muertes por Covid-19 reportadas en
 
 [A pandemic primer on excess mortality statistics and their comparability across countries](https://ourworldindata.org/covid-excess-mortality)
 
+[https://saludconlupa.com/entrevistas/kit-yates-los-test-rpidos-dan-muchos-falsos-positivos-de-covid-19/](https://saludconlupa.com/entrevistas/kit-yates-los-test-rpidos-dan-muchos-falsos-positivos-de-covid-19/)
+
+[En los últimos 80 días, una tercera parte de las muertes por Covid-19](https://www.eleconomista.com.mx/politica/En-los-ultimos-80-dias-una-tercera-parte-de-las-muertes-por-Covid-19-20210126-0177.html) 
+
 []()
 []()
 []()

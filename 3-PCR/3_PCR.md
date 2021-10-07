@@ -87,9 +87,89 @@ Telegram: "#3 PCR (**(min. 0:09) –** Ministerio Sanidad español reconoce en s
  [Más de 500 test o pruebas diagnósticas para COVID-19 se están comercializando en el mercado mundial](http://www.scielo.edu.uy/scielo.php?pid=S1688-03902020000400131&script=sci_arttext)
  
 [Los principales laboratorios, localizados en China, Alemania y EE.UU., se encuentran en la carrera de elaboración de test rápidos para acelerar los procesos diagnósticos poblacionales. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7556773/)
+  
+[ Quien es Christian Drosten? El culpable de esta pandemia y que conexión tiene con el Foro Economico Mundial? ](https://ejercitoremanente.com/2021/01/23/el-virologo-que-introdujo-los-pcr-buscado-por-crimenes-contra-la-humanidad/)
  
-[]()
-[]()
+   
+[QUIEN SABE ALEMAN? Favor de ver y agregar info. Robert F. Kennedy jr. monte sur les barricades](https://www.kla.tv/index.php?a=showlanguage&lang=fr)
+
+ [La sensibilidad analítica de la RT-PCR se ve influida por la baja carga viral en pacientes asintomáticos o levemente sintomáticos](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1727-558X2020000200014)
+
+ [¿Cómo se realiza el examen de PCR?](https://www.clinicaalemana.cl/articulos/detalle/2020/pcr-el-diagnostico-del-coronavirus-covid-19)
+
+[Permite detectar un fragmento del material genético de un patógeno o microorganismo ](https://elglobal.es/industria/que-diferencia-hay-entre-las-pcr-y-los-test-rapidos-para-el-diagnostico-del-covid-19/)
+
+[funcionamiento de los test ](https://www.youtube.com/watch?v=soRvZhFxZEk)
+
+["la prueba PCR determina si existe o no presencia del virus, no la cantidad de virus que posee el paciente ](https://www.tucanaldesalud.es/es/tecnologia/articulos/prueba-covid-19-conviene#pcr)
+
+[Un sistema habitual de RT-PCR en tiempo real suele constar de 35 ciclos, es decir, que al final del proceso se habrán creado unos 35 000 millones de copias nuevas de las partes del ADN vírico de cada una de las cadenas del virus presentes en la muestra.](https://www.iaea.org/es/newscenter/news/pcr-en-tiempo-real-covid-19)
+
+[La RT‑PCR es una variante de la PCR, o reacción en cadena de la polimerasa. El proceso que emplean ambas técnicas es el mismo, con la excepción de que la RT‑PCR añade un paso de transcripción inversa del ARN a ADN para permitir la amplificación. Esto significa que la PCR se utiliza para patógenos, como virus y bacterias, que ya contienen ADN susceptible de amplificación, mientras que la RT‑PCR se emplea para los que contienen ARN que debe transcribirse a ADN antes de la amplificación.](https://www.iaea.org/es/enfermedades-infecciosas/deteccion-del-virus-de-la-covid-19-mediante-la-rt-pcr-en-tiempo-real)
+
+[EXIGENCIA PRUEBA PCR NEGATIVA PARA VIAJAR A ESPAÑA ](http://www.exteriores.gob.es/Consulados/MEXICO/es/Consulado/Paginas/Articulos/exigenciaPCRnegativa.aspx)
+
+[No siempre la detección del virus es COVID-19 ](https://www.analesdepediatria.org/es-test-pcr-sars-cov-2-persistentemente-positivo--articulo-S1695403320302678)
+
+[Correlación de carga viral con prueba RT-PCR en infección por SARS-CoV-2 y hallazgos en tomografía computarizada de tórax ](https://www.medigraphic.com/pdfs/actmed/am-2020/am204g.pdf)
+
+[Más de 500 test o pruebas diagnósticas para COVID-19 se están comercializando en el mercado mundial ](http://www.scielo.edu.uy/scielo.php?pid=S1688-03902020000400131&script=sci_arttext)
+
+
+[Los principales laboratorios, localizados en China, Alemania y EE.UU., se encuentran en la carrera de elaboración de test rápidos para acelerar los procesos diagnósticos poblacionales.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7556773/)
+
+
+[Médicos forenses buscan rastros de COVID-19 en muertes inexplicables](https://khn.org/news/medicos-forenses-buscan-rastros-de-covid-19-en-muertes-inexplicables/)
+
+[comparaciones entre paises no tienen sentido](https://theconversation.com/coronavirus-las-comparaciones-entre-paises-no-tienen-sentido-a-menos-que-tengamos-en-cuenta-los-sesgos-en-las-pruebas-135529)
+
+[porque las pruebas son un terrible desperdicio](https://regenerationinternational.org/2020/11/24/por-que-las-pruebas-de-covid-19-son-un-terrible-desperdicio/)
+
+[Un resfriado común podría desencadenar una prueba de anticuerpos de COVID-19 positiva](http://www.alkemydiagnostico.com/novedades/noticia/418)
+
+[¿Conocemos las propiedades diagnósticas de las pruebas usadas en COVID-19? Una revisión rápida de la literatura recientemente publicada](https://www.medwave.cl/link.cgi/Medwave/Revisiones/RevisionTemas/7890.act)
+
+[fallos positivo](https://www.lasprovincias.es/sociedad/salud/fallos-positivo-coronavirus-pcr-20200905195312-nt.html)
+
+[pcr tiene problemas](https://www.irekia.euskadi.eus/mobile/es/proposals/3944-oms-admite-que-prueba-pcr-para-deteccion-del-covid-tiene-problema)
+
+[CONSENSO SOBRE EL USO DE PRUEBAS DIAGNÓSTICAS PARA SARS-COV-2 ](https://bancos.salud.gob.ar/sites/default/files/2020-09/covid-19-consenso-sobre-uso-de-pruebas-diagnosticas-para-sars-cov-2.pdf)
+
+[Escenarios de Pruebas de diagnóstico](https://espanol.cdc.gov/coronavirus/2019-ncov/community/organizations/testing-non-healthcare-workplaces.html#anchor_1615914259842)
+
+[Estrategias de diagnóstico covid ](https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-COVID19-OrganizacionDiagnostico.pdf)
+
+ [PCR vs pruebas rápidas. Ambas técnicas pueden detectar la Covid-19 en pacientes, pero ¿existen diferencias en cuanto a rapidez y eficacia?](https://www.telesurtv.net/news/coronavirus-conoce-pcr-pruebas-rapidas-para-identificar-covid-20200813-0058.html)
+
+ [Cuando es necesario tomar una prueba min 26:32¨](https://www.youtube.com/watch?v=16RzTK8jLZ0&t=1503s)
+
+[Pruebas de laboratorio para el coronavirus causante del síndrome respiratorio de Oriente Medio ](https://apps.who.int/iris/bitstream/handle/10665/188247/WHO_MERS_LAB_15.1_spa.pdf;jsessionid=8F08B94C5514FDFBA29AB52B242088B0?sequence=1)
+
+[Otro estudio de falsos positivos.](https://pubmed.ncbi.nlm.nih.gov/16522785/)
+
+[minsal suspendio 5 laboratorios](https://www.cnnchile.com/coronavirus/minsal-suspendio-pcr-cinco-laboratorios_20200515/)
+
+[pcr no fiables](https://www.mentealternativa.com/dr-claus-kohnlein-las-pruebas-pcr-no-son-fiables-son-usadas-para-alimentar-la-pandemia-que-no-lo-fue/)
+
+[ Covid-19: the problems with case counting](https://www.bmj.com/content/370/bmj.m3374)
+
+[Estudios demuestran porque fallan los test PCR](https://cienciaysaludnatural.com/estudios-demuestran-porque-fallan-los-test-pcr/)
+
+[tesis negacionistas colegio biologos bizkaia](https://www.google.com/amp/s/www.elcorreo.com/bizkaia/tesis-negacionistas-decano-colegio-biologos-bizkaia-20210504181321-nt_amp.html)
+
+ 
+[gobierno oposicion mas de los mismo empenados en continuar con el desproposito](http://euskalnews.com/2021/05/gobierno-oposicion-mas-de-lo-mismo-empenados-en-continuar-con-el-desproposito-jon-ander-etxebarria/)
+
+
+[Bartomeu Payeras. PCR a 10 asaltos](https://www.bitchute.com/video/LSS4sxjvba1t/)
+
+ 
+[PCR MONEY ](https://www.bitchute.com/video/m2h2ud7i6yL2/)
+   
+[PCRGATE](https://www.bitchute.com/video/DvA59wTlSADF/)
+
+[CORONAGATE ](https://www.bitchute.com/video/zQfajE3p5kqJ/)
+
 []()
 []()
 []()
