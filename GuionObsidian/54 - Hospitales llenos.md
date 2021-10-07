@@ -1,0 +1,5 @@
+
+Y, de todas las historias engañosas que inyectaron miedo a la población, la que nos pedía creer que "Los hospitales están llenos" fue quizás la que más resonó. Aquí hay que señalar que en la mayoría de países, no todos los hospitales atendían covid, y de los que atendían covid, solamente una rama del hospital era dedicada a dicha enfermedad. Entonces, en algunos casos, en ese espacífico edificio, dadas las restricciones, sí se podía ver escacez de camas o de espacio. 
+Dicho esto, lo que uno esperaría en un caso de "Pandemia Global", (tan crítica que es imperativo que todos nos quedemos en casa pues la gente se está "muriendo como mosca"), es que los hospitales estén realmente llenos. 
+Yo mismo fui a filmarlo por mi ciudad en el momento más crítico de la cuarentena: No había nadie en los parqueaderos ni en las entradas de emergencia. **Los hospitales estaban vacíos.**
+Otras personas compartieron historias similares en el resto del mundo. Los medios de comuniación, claro, reportaban totalmente lo contrario.

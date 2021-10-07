@@ -1,0 +1,1 @@
+En los medios de comunicación más grandes del mundo, sobre todo en EEUU y Europa, se pueden ver constantemente anuncios que incentivan a los televidentes a "preguntar a su doctor" sobre tal o cual desorden y tal o cual pastilla. 
