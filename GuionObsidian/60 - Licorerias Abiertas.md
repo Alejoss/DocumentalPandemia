@@ -1,0 +1,1 @@
+Los negocios escenciales quedaron abiertos, lo demás fue obligado a cerrar. Con escepción de las licorerías. El licor es conocido por ser inmunodepresor. ¿Cuál es el sentido de esto?
