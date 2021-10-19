@@ -94,6 +94,12 @@ Telegram: minuto 8
 
 [nuevo orden mundial dinero y alimentos](http://m.elgranaviso-mensajes.com/news/a17-abr-2011/?utm_source=copy&utm_medium=paste&utm_campaign=copypaste&utm_content=http%3A%2F%2Fm.elgranaviso-mensajes.com%2Fnews%2Fa17-abr-2011%2F)
 
+ [¿Qué representa que el covid-19 sea una enfermedad vascular y no respiratoria?](https://www.eluniversal.com.mx/ciencia-y-salud/riesgos-de-que-covid-19-sea-una-enfermedad-vascular-y-no-respiratoria)
+
+[La voz en tiempos de pandemia.](https://www.youtube.com/watch?v=9-5safuLFWU)
+
+[pandemias psiquicas min 23](https://www.youtube.com/watch?v=IUht8-YMQuw)
+
 []()
 []()
 []()

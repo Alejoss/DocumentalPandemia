@@ -13,6 +13,8 @@
 
 [Noruega registró el año pasado el menor número de muertes de su historia - SWI swissinfo.ch](https://www.evernote.com/shard/s481/client/snv?noteGuid=dfe4373b-0247-488f-29b6-26750269a5fd&noteKey=a6c01042c2f491eefc9636e61f88bbe9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs481%2Fsh%2Fdfe4373b-0247-488f-29b6-26750269a5fd%2Fa6c01042c2f491eefc9636e61f88bbe9&title=Noruega%2Bregistr%25C3%25B3%2Bel%2Ba%25C3%25B1o%2Bpasado%2Bel%2Bmenor%2Bn%25C3%25BAmero%2Bde%2Bmuertes%2Bde%2Bsu%2Bhistoria%2B-%2BSWI%2Bswissinfo.ch)
 
+[Datos sobre mascarillas internacional](https://superocho.org/watch/9M1HdVtghqTYxHB)
+
 []()
 []()
 []()

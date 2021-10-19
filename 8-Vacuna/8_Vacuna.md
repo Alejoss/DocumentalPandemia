@@ -71,6 +71,21 @@ Telegram:"**#1**. #2. #3. #6 #7 #9**
  
 [Gente en EEUU rechazando la 2ª dosis](https://www.nytimes.com/2021/04/25/business/covid-vaccines-second-doses.html)
 
+[origen vacuna sars](https://telegra.ph/INVESTIGACI%C3%93N-ORIGEN-EVOLUCI%C3%93N-INSERCIONES-GEN%C3%89TICAS-Y-VACUNAS-SOBRE-EL-SARS-nCOV2-Parte-1-04-16)
+
+[fuente de la vacuna](https://telegra.ph/Ingenier%C3%ADa-inversa-del-c%C3%B3digo-fuente-de-la-vacuna-BioNTech--Pfizer-SARS-CoV-2-03-29)
+
+[biochip inyectable](https://telegra.ph/Biochip-inyectable-para-detecci%C3%B3n-de-SARS-CoV-2-cerca-de-la-aprobaci%C3%B3n-de-la-FDA-12-30)
+
+[entrega de glaciares y permisos de pesca](https://telegra.ph/Pfizer-reclam%C3%B3-la-entrega-de-glaciares-y-permisos-de-pesca-a-cambio-de-la-vacuna-Las-dem%C3%A1s-corporaciones-farmac%C3%A9uticas-qu%C3%A9-pidie-01-01)
+
+[RECOPILACION DE DATOS Y LINKS CON INFORMACIÓN ACERCA DE VACUNAS](https://telegra.ph/8-VACUNAS-05-05)
+
+[MAS SOBRE VACUNAS, BARTOMEU PAYERAS I CIFRE  ](https://superocho.org/watch/lMXvuWYDLtRGPqy?lang=spanish)
+
+[Hoja informativa de la FDA sobre pfizer-Biotech documento en español: ](https://superocho.org/watch/XRkL15eAuGvzu7F)
+ 
+[ESTUDIO INCIDENCIA VACUNA/OCUPACIÓN_UCI'S. Jon Ander Etxebarria Garate. Biologosporlaverdad . es](https://biologosporlaverdad.es/vacunasiaucis.pdf)
 []()
 []()
 []()
