@@ -1,0 +1,1 @@
+La reacción gubernamental de todo el mundo ha sido guiada por la OMS. Desde los tratamientos recomendados hasta la prohibición del uso de Ivermectina, la OMS es un actor central la toma de decisiones de la tecnocracia médica que estamos viviendo. ¿Qué es la OMS? es la siguiente pregunta, ¿Quién la financia?.
