@@ -1,0 +1,1 @@
+Las mascarillas hacen daño. Más aún, son innecesarias.

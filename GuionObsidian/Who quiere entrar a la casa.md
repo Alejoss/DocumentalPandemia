@@ -1,1 +1,0 @@
-transmision in the family houshold. Quiere entrar a la casa

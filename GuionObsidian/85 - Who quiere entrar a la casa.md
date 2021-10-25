@@ -1,0 +1,1 @@
+OMS propuso entrar por transmision in the family houshold. Quiere entrar a la casa

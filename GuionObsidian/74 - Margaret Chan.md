@@ -1,0 +1,1 @@
+Anterior a Tedros. Escándalos.

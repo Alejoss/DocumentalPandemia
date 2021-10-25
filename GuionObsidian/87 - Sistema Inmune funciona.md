@@ -1,0 +1,3 @@
+Se acuerdan que la mayoría de muertes son personas mayores y con comorbididades? Es porque las personas jóvenes y saludables son capaces de superar el virus sin ningún problema. De hecho, para los niños hay más posibilidad de que les caiga un rayo a que mueran por covid. 
+
+Lo que tienen que decir estos doctores me parece importante, claro está, no son los únicos que han levantado la voz (Este documental duraría muchas horas más si expusiera lo que han denunciado tantos científicos, epidemiólogos, virólogos expertos en el tema).

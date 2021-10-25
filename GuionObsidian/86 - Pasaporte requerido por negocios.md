@@ -1,0 +1,1 @@
+Se avecina una economía dividida en la que solamente los que tengan pasaporte de vacunación van a poder participar de ciertos eventos y entrar a la mayoría de locales. Esto demanda de un sistema de vigilancia total que incluya biométricas, es decir, una forma de rastrear la actividad del cuerpo humano y vincularla con el mundo digital. 
