@@ -5,3 +5,4 @@
 - Rand Paul hiso la misma pregunta en el senado norteamericano **video**.
 
 --------------------------------------------------------------------
+[Año 2008 Pekin Union Medical College – Hospital. Investigación publicada y co-financiada por la Comisión Europea sobre CORONAVIRUS: SARS-CoV2 y SARS-CoV3.](https://telegra.ph/A%C3%B1o-2008-Pekin-Union-Medical-College--Hospital-Investigaci%C3%B3n-publicada-y-co-financiada-por-la-Comisi%C3%B3n-Europea-sobre-CORONAVIRUS-05-22)

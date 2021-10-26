@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IdeasGuion.md",
+            "file": "4-Laboratorio/4_Laboratorio.md",
             "mode": "source"
           }
         }
@@ -40,9 +40,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 571
   },
   "right": {
     "id": "601f1d45a1026fb2",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IdeasGuion.md",
+                "file": "4-Laboratorio/4_Laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,15 @@
   },
   "active": "5b006f588920d39c",
   "lastOpenFiles": [
-    "IdeasGuion.md",
-    "¿Cómo se compara COVID-19 con otras grandes causas de muerte_ _ Foro Económico Mundial.pdf",
-    "7_GobiernosOMS.md",
-    "GuionObsidian/02 - tasa oficial de mortalidad.md"
+    "4-Laboratorio/4_Laboratorio.md",
+    "GuionObsidian/31 - Hay q investigar el origen..md",
+    "GuionObsidian/32 - Preguntas sobre el origen..md",
+    "GuionObsidian/39 - Hay algunos antecedentes interesantes.md",
+    "GuionObsidian/34 - Dr Fauci - Ganancia de Función.md",
+    "GuionObsidian/40 - Dr Fauci advirtió.md",
+    "GuionObsidian/33 - Antecedentes de laboratorios.md",
+    "GuionObsidian/35 - Farmacéuticas investigadoras de virus.md",
+    "Untitled.md",
+    "README.md"
   ]
 }
