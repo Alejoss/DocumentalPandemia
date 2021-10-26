@@ -178,6 +178,8 @@ Telegram: "#3 PCR (**(min. 0:09) –** Ministerio Sanidad español reconoce en s
 
 [basurero de pruebas rapidas china](https://lanetaneta.com/latinoamerica-un-basurero-de-pruebas-rapidas-chinas-anticovid/)
 
+[ La distopía sin datos del COVID | Tom Woods](https://www.youtube.com/watch?v=2-Vq0nNHycE&ab_channel=CentroMises)
+Telegram:"El presidente de Tanzania revelo la inconsistencia de los PCR y advirtió sobre el peligro de las vacunas, murio misteriosamente hace un mes."
 
 []()
 []()
