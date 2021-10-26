@@ -1,1 +1,3 @@
 Políticos y personas de la élite que no respetaron el confinamiento mientras los medios de comunicación repetían sin cesar que te quedes en casa y los políticos usaban la fuerza para mantenerte encerrado.
+
+[Olivos Argetina, el presidente Alberto Fernandez de fiesta en plena cuarentena](https://www.infobae.com/politica/2021/08/27/fiesta-en-olivos-alberto-fernandez-fue-tapa-del-financial-times-por-las-fotos-del-cumpleanos-en-plena-cuarentena/)

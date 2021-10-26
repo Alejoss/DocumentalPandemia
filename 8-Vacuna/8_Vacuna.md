@@ -86,7 +86,8 @@ Telegram:"**#1**. #2. #3. #6 #7 #9**
 [Hoja informativa de la FDA sobre pfizer-Biotech documento en español: ](https://superocho.org/watch/XRkL15eAuGvzu7F)
  
 [ESTUDIO INCIDENCIA VACUNA/OCUPACIÓN_UCI'S. Jon Ander Etxebarria Garate. Biologosporlaverdad . es](https://biologosporlaverdad.es/vacunasiaucis.pdf)
-[]()
+
+[ La Proteina Espiga es la responsable de los efectos adversos en las vacunas K0 B1T](https://cienciaysaludnatural.com/la-proteina-espiga-es-la-responsable-de-los-efectos-adversos-en-las-vacunas-k0-b1t/)
 []()
 []()
 []()
