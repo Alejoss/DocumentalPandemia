@@ -13,11 +13,15 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
+            "file": "34 - Dr Fauci - Ganancia de Función.md",
+=======
 <<<<<<< Updated upstream
             "file": "90 - Distanciamiento.md",
 =======
             "file": "15 - Cambios en % de mortalidad..md",
 >>>>>>> Stashed changes
+>>>>>>> main
             "mode": "source"
           }
         }
@@ -60,11 +64,15 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 521
+=======
 <<<<<<< Updated upstream
     "width": 484
 =======
     "width": 392
 >>>>>>> Stashed changes
+>>>>>>> main
   },
   "right": {
     "id": "91dbba23c6970539",
@@ -80,11 +88,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "34 - Dr Fauci - Ganancia de Función.md",
+=======
 <<<<<<< Updated upstream
                 "file": "90 - Distanciamiento.md",
 =======
                 "file": "15 - Cambios en % de mortalidad..md",
 >>>>>>> Stashed changes
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +117,18 @@
 <<<<<<< Updated upstream
   "active": "221c66f956c03d33",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "34 - Dr Fauci - Ganancia de Función.md",
+    "37 - Actores financiando investigaciones.md",
+    "35 - Farmacéuticas investigadoras de virus.md",
+    "36 - No se escapó de un laboratorio.md",
+    "33 - Antecedentes de laboratorios.md",
+    "32.1 Washington Post Arrepentido.md",
+    "32.3 Covid no tiene un ancestro natural.md",
+    "32 - Preguntas sobre el origen..md",
+    "38 - Alguien sería capaz.md",
+    "39 - Evento 201.md"
+=======
     "90 - Distanciamiento.md",
     "89 - Contagio asintomático.md",
     "88 - Mascarillas.md",
@@ -129,5 +153,6 @@
     "31 - Hay q investigar el origen..md",
     "27 - Estudio Corman Drosten.md"
 >>>>>>> Stashed changes
+>>>>>>> main
   ]
 }
