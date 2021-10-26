@@ -100,6 +100,9 @@ Telegram: minuto 8
 
 [pandemias psiquicas min 23](https://www.youtube.com/watch?v=IUht8-YMQuw)
 
+
+[COMUNICACIONES INALÁMBRICAS 5G Y ESTUDIOS SOBRE SUS EFECTOS EN LA SALUD (INDICE DE ARTÍCULOS)](https://telegra.ph/COMUNICACIONES-INAL%C3%81MBRICAS-5G-Y-ESTUDIOS-SOBRE-SUS-EFECTOS-EN-LA-SALUD-INDICE-DE-ART%C3%8DCULOS-01-07)
+
 []()
 []()
 []()

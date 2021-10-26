@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "65e6475be64c3ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b006f588920d39c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IdeasGuion.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6278dc0ffee9b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "76239e303f14001b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d918ee0d8da4cda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d8f826d7d824de4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "601f1d45a1026fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f783efda6145ca0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be96df18d09ec607",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IdeasGuion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b006f588920d39c",
+  "lastOpenFiles": [
+    "IdeasGuion.md",
+    "¿Cómo se compara COVID-19 con otras grandes causas de muerte_ _ Foro Económico Mundial.pdf",
+    "7_GobiernosOMS.md",
+    "GuionObsidian/02 - tasa oficial de mortalidad.md"
+  ]
+}
