@@ -1,4 +1,3 @@
-
 [Año 2008 Pekin Union Medical College – Hospital. Investigación publicada y co-financiada por la Comisión Europea sobre CORONAVIRUS: SARS-CoV2 y SARS-CoV3.](https://telegra.ph/A%C3%B1o-2008-Pekin-Union-Medical-College--Hospital-Investigaci%C3%B3n-publicada-y-co-financiada-por-la-Comisi%C3%B3n-Europea-sobre-CORONAVIRUS-05-22)
 
 [Washington Post: Labeling Lab Leak as ‘Debunked Conspiracy Theory’ Was Wrong](https://www.theepochtimes.com/mkt_breakingnews/washington-post-labeling-lab-leak-as-debunked-conspiracy-theory-was-wrong_3840960.html)
