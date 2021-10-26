@@ -14,3 +14,5 @@ Misma compañía trabaja ofreciendo reconocimiento facial para el gobierno chino
 
 1:25
 EARTH NOW LLC - satelites vigilancia
+
+ID2020
