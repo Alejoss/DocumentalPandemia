@@ -28,8 +28,6 @@
 
 [Causas de muerte más frecuente con covid-19 virus identificado y virus no identificado (sospechoso) como comorbilidad según sexo.](https://www.ine.es/jaxi/Datos.htm?path=/t15/p417/covid/&file=01010.px#!tabs-tabla)
 
-------
-
 [ La Malaria, una enfermedad curable (y a pesar de todo mata a un niño cada minuto)](https://www.medicusmundi.es/eu/actualidad/noticias/509/la-malaria-una-enfermedad-curable-y-a-pesar-de-todo-mata-a-un-nino-cada-minuto)
 
 [ La distopía sin datos del COVID | Tom Woods](https://www.youtube.com/watch?v=2-Vq0nNHycE&ab_channel=CentroMises)
@@ -74,6 +72,8 @@
 [Grandes Epidemias de la historia](https://elordenmundial.com/mapas/grandes-epidemias-de-la-historia/)
 
 [ Suecia tiene un 60% menos de fallecidos que España y sin aplicar confinamientos](https://www.libremercado.com/2021-03-31/suecia-sin-confinamiento-mejor-espana-mortalidad-economia-salud-6740689/)
+
+------
 
 [Covid MExico](https://datos.covid-19.conacyt.mx/#DOView)
 
