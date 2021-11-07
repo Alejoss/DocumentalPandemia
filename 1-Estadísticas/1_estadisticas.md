@@ -73,6 +73,8 @@
 
 [ Suecia tiene un 60% menos de fallecidos que España y sin aplicar confinamientos](https://www.libremercado.com/2021-03-31/suecia-sin-confinamiento-mejor-espana-mortalidad-economia-salud-6740689/)
 
+------
+
 [Covid MExico](https://datos.covid-19.conacyt.mx/#DOView)
 
 [México - Coronavirus en Latinoamérica, estadísticas de casos y muertes, en gráficos y datos](https://www.epdata.es/datos/coronavirus-latinoamerica-estadisticas-casos-muertes-graficos-datos/532/mexico/184)
