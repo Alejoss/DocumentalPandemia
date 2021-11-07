@@ -73,8 +73,6 @@
 
 [ Suecia tiene un 60% menos de fallecidos que España y sin aplicar confinamientos](https://www.libremercado.com/2021-03-31/suecia-sin-confinamiento-mejor-espana-mortalidad-economia-salud-6740689/)
 
-------
-
 [Covid MExico](https://datos.covid-19.conacyt.mx/#DOView)
 
 [México - Coronavirus en Latinoamérica, estadísticas de casos y muertes, en gráficos y datos](https://www.epdata.es/datos/coronavirus-latinoamerica-estadisticas-casos-muertes-graficos-datos/532/mexico/184)
@@ -108,6 +106,9 @@
 [Situación por región, país, territorio y área]([https://covid19.who.int/table](https://covid19.who.int/table))
 
 [ El estudio científico que da la razón a Ayuso: cerrar ciudades densamente pobladas propaga el Covid](https://okdiario.com/espana/estudio-cientifico-que-da-razon-ayuso-cerrar-ciudades-densidad-poblacion-propaga-covid-7023845/amp)
+
+
+------
 
 [Varias Noticias](https://www.youtube.com/watch?v=2Dtv0onxYmU&ab_channel=TruthBeTold)
 Telegram:"#1 **(0:10)** protocolos de contabilización (la diferencia entre “con” y “por” Covid, con influencia directa en las cifras aportadas)  
