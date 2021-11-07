@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 - Los políticos no respetaron el confinamiento.md",
+            "file": "15 - Cambios en % de mortalidad..md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62 - Los políticos no respetaron el confinamiento.md",
+                "file": "15 - Cambios en % de mortalidad..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "221c66f956c03d33",
   "lastOpenFiles": [
-    "62 - Los políticos no respetaron el confinamiento.md",
-    "91 - Contraste con la vida real.md",
-    "90 - Distanciamiento.md",
-    "88 - Mascarillas.md",
-    "89 - Contagio asintomático.md",
-    "87 - Sistema Inmune funciona.md",
-    "81 - Censura a expertos en el tema.md",
-    "80 - Google.md",
-    "79 - Twitter.md",
-    "78 - Youtube.md"
+    "15 - Cambios en % de mortalidad..md",
+    "13 - Exceso de muertes sin coherencia estadística.md",
+    "13.1 Muertes irrelacionadas con lockdowns.md",
+    "14 - Comparación otras causas de muerte.md",
+    "09.1 Causas de muerte España comorbilidad.md",
+    "10 - Costo del tratamiento.md",
+    "11 - Mortalidad incoherente..md",
+    "11.4 Israel muertes vs vacunación.md",
+    "12 - La mayoría de muertos son mayores.md",
+    "09 - Incentivo económico por casos covid..md"
   ]
 }

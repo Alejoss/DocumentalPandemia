@@ -25,3 +25,8 @@ El experto en estadística médica de Standford, phd, John Ionadis, compartió s
 
 [# John Ioannidis, MD - Data-Driven vs. Non-Data-Driven Decision Making During the COVID-19 Pandemic](https://www.youtube.com/watch?v=g4TS38h81JE)
 -	min 42 comparación con influenza, no hay por qué asustarse.
+
+Alrededor de 60 millones de personas mueren al año en la Tierra. El COVID es la única causa de muerte que tiene un sitio web en el que se cuentan cada una de las muertes (y resuenan en los medios). 
+
+https://github.com/Alejoss/DocumentalPandemia/blob/main/1-Estad%C3%ADsticas/tasa%20de%20mortalidad%204.jpg
+
