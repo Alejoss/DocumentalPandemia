@@ -108,8 +108,6 @@
 [ El estudio científico que da la razón a Ayuso: cerrar ciudades densamente pobladas propaga el Covid](https://okdiario.com/espana/estudio-cientifico-que-da-razon-ayuso-cerrar-ciudades-densidad-poblacion-propaga-covid-7023845/amp)
 
 
-------
-
 [Varias Noticias](https://www.youtube.com/watch?v=2Dtv0onxYmU&ab_channel=TruthBeTold)
 Telegram:"#1 **(0:10)** protocolos de contabilización (la diferencia entre “con” y “por” Covid, con influencia directa en las cifras aportadas)  
 #1 **(1:12)** políticos españoles pillados antes de rueda de prensa (conversación previa orientada a poder justificar los números)  
@@ -232,6 +230,9 @@ Evolución fallecidos España de mz 2020 a abril 2021.
 [EL BANCO MUNDIAL CONSIDERA COVID-19 un proyecto en desarrollo desde el 31 de marzo de 2020 hasta el 31 de marzo de 2025](https://telegra.ph/EL-BANCO-MUNDIAL-CONSIDERA-COVID-19-un-proyecto-en-desarrollo-desde-el-31-de-marzo-de-2020-hasta-el-31-de-marzo-de-2025-01-05)
  
 [ESTUDIO INCIDENCIA VACUNA/OCUPACIÓN_UCI'S. Jon Ander Etxebarria Garate. Biologosporlaverdad . es](https://biologosporlaverdad.es/vacunasiaucis.pdf)
+
+
+------
 
 []()
 []()
