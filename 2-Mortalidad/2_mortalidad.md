@@ -48,13 +48,13 @@
 
 [Comorbidities and other conditions](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm?fbclid=IwAR2-muRM3tB3uBdbTrmKwH1NdaBx6PpZo2kxotNwkUXlnbZXCwSRP2OmqsI)
 
-[ Comparativo internacional entre el número de decesos por covid-19 y el exceso de mortalidad](https://datos.nexos.com.mx/el-exceso-de-mortalidad-un-comparativo-internacional/muertes-covid-1/)
+[Comparativo internacional entre el número de decesos por covid-19 y el exceso de mortalidad](https://datos.nexos.com.mx/el-exceso-de-mortalidad-un-comparativo-internacional/muertes-covid-1/)
 
-[ Comparativo internacional entre del exceso de mortalidad per cápita](https://datos.nexos.com.mx/el-exceso-de-mortalidad-un-comparativo-internacional/muertes-covid-2/)
+[Comparativo internacional entre del exceso de mortalidad per cápita](https://datos.nexos.com.mx/el-exceso-de-mortalidad-un-comparativo-internacional/muertes-covid-2/)
 
 [El exceso de mortalidad en la pandemia: a las 46.000 muertes de más de la primera ola se suman ya 35.000 desde septiembre](https://www.eldiario.es/sociedad/muertes-esperadas-septiembre-evoluciona-peor-crisis-mortalidad-inicio-democracia-exceso-momo-8-de-junio_1_6946073.html)
 
-[ El exceso de la mortalidad por la pandemia](https://www.fundacionmf.org.ar/visor-producto.php?cod_producto=5813)
+[El exceso de la mortalidad por la pandemia](https://www.fundacionmf.org.ar/visor-producto.php?cod_producto=5813)
 
 [Coronavirus en África: la sorprendente teoría que puede explicar el misterio de la baja tasa de mortalidad del covid-19](https://www.bbc.com/mundo/noticias-internacional-54012501)
 
@@ -119,6 +119,9 @@ Cómo se compara el exceso de muertes con las muertes por Covid-19 reportadas en
 durante la emergencia por COVID-19, México, 2020 – 2021 ](https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/)
 
 [Segunda causa de muerte 2020, seg42](https://www.youtube.com/watch?v=b2DW9nGjDE4)
+
+---------------------------
+
 
 []()
 []()
