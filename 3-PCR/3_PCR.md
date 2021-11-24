@@ -55,6 +55,8 @@
 [ EL MINISTERIO DE SANIDAD RECONOCE QUE LAS "PRUEBAS" NO SIRVEN](https://odysee.com/@HermanosBarea:9/el-ministerio-de-sanidad-reconoce-que:8?&sunset=lbrytv)
 Telegram: "#3 PCR (**(min. 0:09) –** Ministerio Sanidad español reconoce en su propia web oficial que los datos obtenidos en las pruebas PCR NO SON FIABLES.  
 #9 uso de mascarillas **(min.2:52)** – contradicciones sobre su conveniencia (he consultado esta web y parece que ya han cambiado el texto)"
+
+---------------
  
 [Sentencia del Tribunal Administrativo Viena que declara el PCR no apto para diagnostico (30-3-2021) ](https://estacionclaridad.com.ar/2021/03/declaran-al-test-pcr-no-apto-para-diagnostico-en-austria/amp/?__twitter_impression=true)  
   
