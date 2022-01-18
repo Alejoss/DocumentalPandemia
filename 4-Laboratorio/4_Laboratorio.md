@@ -30,8 +30,7 @@
 
   [ La Proteina Espiga es la responsable de los efectos adversos en las vacunas K0 B1T](https://cienciaysaludnatural.com/la-proteina-espiga-es-la-responsable-de-los-efectos-adversos-en-las-vacunas-k0-b1t/)
   
-  ---
-  
+ 
   [INVESTIGACIÓN: ORIGEN, EVOLUCIÓN, INSERCIONES GENÉTICAS Y VACUNAS SOBRE EL SARS-nCOV2 (Parte 1)](https://telegra.ph/INVESTIGACI%C3%93N-ORIGEN-EVOLUCI%C3%93N-INSERCIONES-GEN%C3%89TICAS-Y-VACUNAS-SOBRE-EL-SARS-nCOV2-Parte-1-04-16)
   
   [Lentiviral vector based immunological compounds against malaria](https://patents.google.com/patent/US9822153B2/en)
@@ -58,6 +57,8 @@
 
 [sistema inmunologico curso biologia](https://telegra.ph/Qu%C3%A9-es-el-sistema-inmunol%C3%B3gico-natural-y-la-inmunidad-adaptativa-Curso-de-biolog%C3%ADa-de-Yves-Muller---Profesor-de-Biologia-01-25)
 
+ ---
+  
 []()
 []()
 []()
