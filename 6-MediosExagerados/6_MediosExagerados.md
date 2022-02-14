@@ -23,6 +23,9 @@ Con extractos en vídeo de los discursos de Trump, Sanchez, Boris Johnson al ini
   
 [Referencias al origen y financiación de los fact checker ] (https://www.theblaze.com/op-ed/horowitz-facebooks-independent-fact-checker-on-vaccines-is-funded-by--you-guessed-it)
 
+
+------------------------------
+
 []()
 []()
 []()
